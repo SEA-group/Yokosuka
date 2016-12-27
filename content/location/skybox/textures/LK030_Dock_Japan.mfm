@@ -1,0 +1,14 @@
+<LK030_Dock_Japan.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/environment/moving_sky_box.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	content/location/skybox/textures/LK030_Dock_Japan_d.tga	</Texture>
+	</property>
+	<property>	distorDistanceFalloff
+		<Float>	1.000000	</Float>
+	</property>
+	<property>	windDir
+		<Vector4>	0.000000 0.000000 0.000000 0.000000	</Vector4>
+	</property>
+</LK030_Dock_Japan.mfm>

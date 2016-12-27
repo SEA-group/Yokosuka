@@ -1,0 +1,140 @@
+<ffff0001o.chunk>
+	<terrain>
+		<metaData />
+		<resource>	ffff0001o.cdata/terrain2	</resource>
+	</terrain>
+	<model>
+		<resource>	content/location/building/port/LBP226_DJ/LBP226_DJ.model	</resource>
+		<transform>
+			<row0>	0.971749 0.000000 0.235985	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	-0.235985 0.000000 0.971749	</row2>
+			<row3>	85.000267 0.000000 48.878372	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP226_DJ/LBP226_DJ.model	</resource>
+		<transform>
+			<row0>	0.971749 0.000000 0.235985	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	-0.235985 0.000000 0.971749	</row2>
+			<row3>	62.984421 0.000000 43.534470	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP226_DJ/LBP226_DJ.model	</resource>
+		<transform>
+			<row0>	0.971749 0.000000 0.235985	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	-0.235985 0.000000 0.971749	</row2>
+			<row3>	40.759773 0.000000 38.122391	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP226_DJ/LBP226_DJ.model	</resource>
+		<transform>
+			<row0>	0.971749 0.000000 0.235985	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	-0.235985 0.000000 0.971749	</row2>
+			<row3>	18.625977 0.000000 32.741440	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
+		<animation>
+			<name>	NL225_DJ	</name>
+			<frameRateMultiplier>	0.300000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	0.343931 0.000000 0.695943	</row0>
+			<row1>	0.000000 0.776290 0.000000	</row1>
+			<row2>	-0.695943 0.000000 0.343931	</row2>
+			<row3>	92.346703 0.000000 12.274216	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
+		<animation>
+			<name>	NL225_DJ	</name>
+			<frameRateMultiplier>	0.400000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	0.343931 0.000000 0.695942	</row0>
+			<row1>	0.000000 0.776289 0.000000	</row1>
+			<row2>	-0.695942 0.000000 0.343931	</row2>
+			<row3>	82.267006 0.000002 18.709984	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
+		<animation>
+			<name>	NL225_DJ	</name>
+			<frameRateMultiplier>	0.350000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	0.152089 0.000000 0.761245	</row0>
+			<row1>	0.000000 0.776290 0.000000	</row1>
+			<row2>	-0.761245 0.000000 0.152089	</row2>
+			<row3>	74.139793 0.000004 19.640221	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
+		<animation>
+			<name>	NL225_DJ	</name>
+			<frameRateMultiplier>	0.350000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	0.152089 0.000000 0.761246	</row0>
+			<row1>	0.000000 0.776290 0.000000	</row1>
+			<row2>	-0.761246 0.000000 0.152089	</row2>
+			<row3>	60.250179 0.000000 22.811760	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
+		<animation>
+			<name>	NL225_DJ	</name>
+			<frameRateMultiplier>	0.300000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	-0.050119 0.000000 0.774669	</row0>
+			<row1>	0.000000 0.776290 0.000000	</row1>
+			<row2>	-0.774669 0.000000 -0.050119	</row2>
+			<row3>	54.916515 -0.000004 7.601082	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
+		<animation>
+			<name>	NL225_DJ	</name>
+			<frameRateMultiplier>	0.410000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	0.152089 0.000000 0.761246	</row0>
+			<row1>	0.000000 0.776291 0.000000	</row1>
+			<row2>	-0.761246 0.000000 0.152089	</row2>
+			<row3>	40.473408 1.141767 19.305428	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<transform>
+		<row0>	1.000000 0.000000 0.000000	</row0>
+		<row1>	0.000000 1.000000 0.000000	</row1>
+		<row2>	0.000000 0.000000 1.000000	</row2>
+		<row3>	-100.000000 0.000000 100.000000	</row3>
+	</transform>
+	<boundingBox>
+		<min>	-99.999992 -9999.999023 99.999992	</min>
+		<max>	0.000008 10000.000977 200.000000	</max>
+	</boundingBox>
+</ffff0001o.chunk>

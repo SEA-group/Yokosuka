@@ -1,0 +1,58 @@
+<LBP228_DJ.model>
+	<exporter>	1.6	</exporter>
+	<metaData>
+		<created_by>	v_mironov	</created_by>
+		<created_on>	1437727965	</created_on>
+		<modified_by>	v_mironov	</modified_by>
+		<modified_on>	1437729993	</modified_on>
+	</metaData>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/location/building/port/LBP228_DJ/LBP228_DJ	</nodefullVisual>
+	<dye>
+		<matter>	PBS	</matter>
+		<replaces>	PBS	</replaces>
+		<tint>
+			<name>	PBS_cl1	</name>
+			<material>
+				<mfm>	content/location/building/port/textures/LBP228_DJ_1.mfm	</mfm>
+			</material>
+		</tint>
+		<tint>
+			<name>	PBS_cl2	</name>
+			<material>
+				<mfm>	content/location/building/port/textures/LBP228_DJ_2.mfm	</mfm>
+			</material>
+		</tint>
+		<tint>
+			<name>	PBS_cl3	</name>
+			<material>
+				<mfm>	content/location/building/port/textures/LBP228_DJ_3.mfm	</mfm>
+			</material>
+		</tint>
+		<tint>
+			<name>	PBS_cl4	</name>
+			<material>
+				<mfm>	content/location/building/port/textures/LBP228_DJ_4.mfm	</mfm>
+			</material>
+		</tint>
+		<tint>
+			<name>	PBS_cl5	</name>
+			<material>
+				<mfm>	content/location/building/port/textures/LBP228_DJ_5.mfm	</mfm>
+			</material>
+		</tint>
+		<tint>
+			<name>	PBS_cl6	</name>
+			<material>
+				<mfm>	content/location/building/port/textures/LBP228_DJ_6.mfm	</mfm>
+			</material>
+		</tint>
+		<tint>
+			<name>	PBS_cl7	</name>
+			<material>
+				<mfm>	content/location/building/port/textures/LBP228_DJ_7.mfm	</mfm>
+			</material>
+		</tint>
+	</dye>
+</LBP228_DJ.model>

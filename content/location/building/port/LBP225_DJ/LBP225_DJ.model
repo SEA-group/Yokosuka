@@ -1,0 +1,22 @@
+<LBP225_DJ.model>
+	<action>
+		<name>	idle	</name>
+		<animation>	NL225_DJ	</animation>
+		<filler>	true	</filler>
+	</action>
+	<exporter>	1.6	</exporter>
+	<metaData>
+		<created_by>	v_mironov	</created_by>
+		<created_on>	1437485441	</created_on>
+		<modified_by>	v_mironov	</modified_by>
+		<modified_on>	1438075940	</modified_on>
+	</metaData>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<animation>
+		<name>	NL225_DJ	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	content/animation/location/NL225_DJ	</nodes>
+	</animation>
+	<nodefullVisual>	content/location/building/port/LBP225_DJ/LBP225_DJ	</nodefullVisual>
+</LBP225_DJ.model>

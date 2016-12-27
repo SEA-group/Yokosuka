@@ -1,0 +1,46 @@
+<root>
+	<terrain>
+		<metaData />
+		<resource>	00010001o.cdata/terrain2	</resource>
+	</terrain>
+	<model>
+		<resource>	content/location/building/port/LBP243_DJ/LBP243_DJ.model	</resource>
+		<transform>
+			<row0>	0.619688 0.000000 -0.784840	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	0.784840 0.000000 0.619688	</row2>
+			<row3>	50.804581 0.000000 18.000717	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP243_DJ/LBP243_DJ.model	</resource>
+		<transform>
+			<row0>	0.759335 0.000000 -0.650689	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	0.650689 0.000000 0.759335	</row2>
+			<row3>	35.247421 0.000004 34.665268	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP243_DJ/LBP243_DJ.model	</resource>
+		<transform>
+			<row0>	0.847073 0.000000 -0.531461	</row0>
+			<row1>	0.000000 0.999991 0.000000	</row1>
+			<row2>	0.531461 0.000000 0.847073	</row2>
+			<row3>	17.035805 0.000053 48.332703	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<transform>
+		<row0>	1.000000 0.000000 0.000000	</row0>
+		<row1>	0.000000 1.000000 0.000000	</row1>
+		<row2>	0.000000 0.000000 1.000000	</row2>
+		<row3>	100.000000 0.000000 100.000000	</row3>
+	</transform>
+	<boundingBox>
+		<min>	99.999992 -9999.999023 99.999992	</min>
+		<max>	200.000000 10000.000977 200.000000	</max>
+	</boundingBox>
+</root>

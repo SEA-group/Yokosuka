@@ -1,0 +1,61 @@
+<LBP232_DJ.visual>
+	<boundingBox>
+		<min>	-0.233556 -0.040590 -1.592928	</min>
+		<max>	0.170489 2.568405 0.451045	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	LBP232_DJ	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	LBP232_DJ1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	LBP232_DJ	</node>
+		<geometry>
+			<vertices>	LBP232_DJShape.vertices	</vertices>
+			<primitive>	LBP232_DJShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	PBS_Misc	</identifier>
+					<mfm>	content/location/building/port/textures/LBP232_DJ.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	LBP232_DJ1	</node>
+		<geometry>
+			<vertices>	LBP232_DJ1Shape.vertices	</vertices>
+			<primitive>	LBP232_DJ1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	PBS_Misc	</identifier>
+					<mfm>	content/location/building/port/textures/LBP232_DJ.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</LBP232_DJ.visual>

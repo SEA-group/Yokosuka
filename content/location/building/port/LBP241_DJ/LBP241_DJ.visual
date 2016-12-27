@@ -1,0 +1,38 @@
+<LBP241_DJ.visual>
+	<boundingBox>
+		<min>	-0.655194 0.005326 0.051958	</min>
+		<max>	0.640537 0.234105 0.093446	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	LBP241_DJ	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	LBP241_DJ	</node>
+		<geometry>
+			<vertices>	LBP241_DJShape.vertices	</vertices>
+			<primitive>	LBP241_DJShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	PBS	</identifier>
+					<mfm>	content/location/building/port/textures/LBP241_DJ.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</LBP241_DJ.visual>

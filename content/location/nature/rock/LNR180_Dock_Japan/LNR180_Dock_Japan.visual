@@ -1,0 +1,38 @@
+<LNR180_Dock_Japan.visual>
+	<boundingBox>
+		<min>	-105.140356 -4.267327 -83.139914	</min>
+		<max>	57.159821 22.867905 117.233233	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	LNR180_6	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	LNR180_6	</node>
+		<geometry>
+			<vertices>	LNR180_6Shape.vertices	</vertices>
+			<primitive>	LNR180_6Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	PBSLD	</identifier>
+					<mfm>	content/location/nature/rock/textures/LNR180_Dock_Japan.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</LNR180_Dock_Japan.visual>

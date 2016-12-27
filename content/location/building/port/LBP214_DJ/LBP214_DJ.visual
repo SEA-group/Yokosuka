@@ -1,0 +1,38 @@
+<LBP214_DJ.visual>
+	<boundingBox>
+		<min>	-2.008242 -0.000000 -0.401624	</min>
+		<max>	2.063869 0.523503 0.401501	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	LBP214_DJ	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	LBP214_DJ	</node>
+		<geometry>
+			<vertices>	LBP214_DJShape.vertices	</vertices>
+			<primitive>	LBP214_DJShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	PBS	</identifier>
+					<mfm>	content/location/building/port/textures/LBP214_DJ.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</LBP214_DJ.visual>

@@ -1,0 +1,12 @@
+<LBP242_DJ.model>
+	<exporter>	1.6	</exporter>
+	<metaData>
+		<created_by>	v_mironov	</created_by>
+		<created_on>	1438178755	</created_on>
+		<modified_by>	v_mironov	</modified_by>
+		<modified_on>	1438778271	</modified_on>
+	</metaData>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/location/building/port/LBP242_DJ/LBP242_DJ	</nodefullVisual>
+</LBP242_DJ.model>

@@ -1,0 +1,74 @@
+<fffeffffo.chunk>
+	<terrain>
+		<metaData />
+		<resource>	fffeffffo.cdata/terrain2	</resource>
+	</terrain>
+	<model>
+		<resource>	content/location/building/port/LBP230_DJ/LBP230_DJ.model	</resource>
+		<transform>
+			<row0>	1.118461 0.000000 0.250931	</row0>
+			<row1>	0.000000 1.146260 0.000000	</row1>
+			<row2>	-0.250931 0.000000 1.118461	</row2>
+			<row3>	44.487473 22.224405 83.985771	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP230_DJ/LBP230_DJ.model	</resource>
+		<transform>
+			<row0>	1.118461 0.000000 0.250931	</row0>
+			<row1>	0.000000 1.146260 0.000000	</row1>
+			<row2>	-0.250931 0.000000 1.118461	</row2>
+			<row3>	34.670944 26.338255 69.353577	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP230_DJ/LBP230_DJ.model	</resource>
+		<transform>
+			<row0>	1.118461 0.000000 0.250931	</row0>
+			<row1>	0.000000 1.146260 0.000000	</row1>
+			<row2>	-0.250931 0.000000 1.118461	</row2>
+			<row3>	22.712357 31.081451 49.568279	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
+		<animation>
+			<name>	NL225_DJ	</name>
+			<frameRateMultiplier>	0.410000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	-0.095597 0.000000 0.770379	</row0>
+			<row1>	0.000000 0.776287 0.000000	</row1>
+			<row2>	-0.770379 0.000000 -0.095597	</row2>
+			<row3>	55.054321 25.467453 44.923077	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
+		<animation>
+			<name>	NL225_DJ	</name>
+			<frameRateMultiplier>	0.410000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	-0.095597 0.000000 0.770379	</row0>
+			<row1>	0.000000 0.776287 0.000000	</row1>
+			<row2>	-0.770379 0.000000 -0.095597	</row2>
+			<row3>	62.199814 21.370270 32.998001	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<transform>
+		<row0>	1.000000 0.000000 0.000000	</row0>
+		<row1>	0.000000 1.000000 0.000000	</row1>
+		<row2>	0.000000 0.000000 1.000000	</row2>
+		<row3>	-200.000000 0.000000 -100.000000	</row3>
+	</transform>
+	<boundingBox>
+		<min>	-199.999985 -9999.999023 -99.999992	</min>
+		<max>	-99.999985 10000.000977 0.000008	</max>
+	</boundingBox>
+</fffeffffo.chunk>

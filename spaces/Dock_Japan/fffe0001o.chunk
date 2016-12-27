@@ -1,0 +1,36 @@
+<fffe0001o.chunk>
+	<terrain>
+		<metaData />
+		<resource>	fffe0001o.cdata/terrain2	</resource>
+	</terrain>
+	<model>
+		<resource>	content/location/building/port/LBP230_DJ/LBP230_DJ.model	</resource>
+		<transform>
+			<row0>	1.118459 0.000000 0.250931	</row0>
+			<row1>	0.000000 1.146258 0.000000	</row1>
+			<row2>	-0.250931 0.000000 1.118459	</row2>
+			<row3>	81.480919 22.600349 2.113228	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP226_DJ/LBP226_DJ.model	</resource>
+		<transform>
+			<row0>	0.971749 0.000000 0.235985	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	-0.235985 0.000000 0.971749	</row2>
+			<row3>	96.482841 0.000000 27.388641	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<transform>
+		<row0>	1.000000 0.000000 0.000000	</row0>
+		<row1>	0.000000 1.000000 0.000000	</row1>
+		<row2>	0.000000 0.000000 1.000000	</row2>
+		<row3>	-200.000000 0.000000 100.000000	</row3>
+	</transform>
+	<boundingBox>
+		<min>	-199.999985 -9999.999023 99.999992	</min>
+		<max>	-99.999985 10000.000977 200.000000	</max>
+	</boundingBox>
+</fffe0001o.chunk>

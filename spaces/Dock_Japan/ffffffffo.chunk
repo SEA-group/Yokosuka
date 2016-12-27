@@ -1,0 +1,5635 @@
+<ffffffffo.chunk>
+	<terrain>
+		<metaData />
+		<resource>	ffffffffo.cdata/terrain2	</resource>
+	</terrain>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.103275 0.000000 -0.994652	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	0.994652 0.000000 -0.103275	</row2>
+			<row3>	90.891609 0.000000 80.807205	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.169929 0.000000 -0.985455	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.985455 0.000000 -0.169929	</row2>
+			<row3>	94.824593 0.000000 78.103645	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.169929 0.000000 -0.985454	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	1.030324 0.000000 -0.177666	</row2>
+			<row3>	98.839951 0.000000 77.407906	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP206_DJ/LBP206_DJ.model	</resource>
+		<transform>
+			<row0>	-0.758079 0.000002 -0.652149	</row0>
+			<row1>	0.000002 0.999994 0.000000	</row1>
+			<row2>	0.652149 -0.000001 -0.758079	</row2>
+			<row3>	61.662296 0.493812 99.035614	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.120358 0.000000 -0.992728	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	1.027391 0.000000 -0.124561	</row2>
+			<row3>	86.868973 0.000000 81.260178	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.106662 0.000000 -0.994293	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	1.037046 0.000000 -0.111248	</row2>
+			<row3>	78.418694 0.000000 84.199661	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.997601 0.000000 -0.069179	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.069179 0.000000 -0.997601	</row2>
+			<row3>	75.871048 0.000000 86.676231	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.997601 0.000000 -0.069179	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.069179 0.000000 -0.997601	</row2>
+			<row3>	75.600891 0.000000 90.589455	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.997601 0.000000 -0.069179	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.069179 0.000000 -0.997601	</row2>
+			<row3>	75.325996 0.000000 94.570648	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.997600 0.000000 -0.069179	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.069179 0.000000 -0.997600	</row2>
+			<row3>	75.050285 0.000000 98.509659	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.120358 0.000000 -0.992729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	0.992729 0.000000 -0.120358	</row2>
+			<row3>	82.836899 -0.000000 81.739624	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	0.059081 0.000000 0.998248	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.998248 0.000000 0.059081	</row2>
+			<row3>	85.186440 0.000000 88.480064	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.059081 0.000000 -0.998247	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	0.998247 0.000000 -0.059081	</row2>
+			<row3>	85.226135 0.000000 89.238480	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.059081 0.000000 -0.998247	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	0.998247 0.000000 -0.059081	</row2>
+			<row3>	81.279831 0.000000 89.470108	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	0.059081 0.000000 0.998249	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.998249 0.000000 0.059081	</row2>
+			<row3>	81.202965 0.000000 88.712662	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.059081 0.000000 -0.998248	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	0.837791 0.000000 -0.049584	</row2>
+			<row3>	77.613007 0.000000 89.683121	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	0.059081 0.000000 0.998249	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.837792 0.000000 0.049584	</row2>
+			<row3>	77.635109 0.000000 88.924309	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	0.014068 0.000000 0.999895	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.839174 0.000000 0.011806	</row2>
+			<row3>	77.249825 0.000000 96.236710	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.014068 0.000000 -0.999895	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	0.839173 0.000000 -0.011806	</row2>
+			<row3>	77.193588 0.000000 96.993759	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	0.014068 0.000000 0.999895	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.999895 0.000000 0.014068	</row2>
+			<row3>	80.823593 0.000000 96.185951	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.014068 0.000000 -0.999894	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	0.999894 0.000000 -0.014068	</row2>
+			<row3>	80.866280 0.000000 96.946091	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.014068 0.000000 -0.999894	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	0.999894 0.000000 -0.014068	</row2>
+			<row3>	84.819016 0.000000 96.892410	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	0.014068 0.000000 0.999895	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.999895 0.000000 0.014068	</row2>
+			<row3>	84.813507 0.000000 96.132980	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP233_DJ/LBP233_DJ.model	</resource>
+		<transform>
+			<row0>	0.090665 0.000000 0.995878	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.995878 0.000000 0.090665	</row2>
+			<row3>	77.916107 0.000000 85.343391	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP233_DJ/LBP233_DJ.model	</resource>
+		<transform>
+			<row0>	0.130748 0.000000 0.991412	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.991412 0.000000 0.130748	</row2>
+			<row3>	82.981720 0.000000 82.810982	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP233_DJ/LBP233_DJ.model	</resource>
+		<transform>
+			<row0>	0.130748 0.000000 0.991412	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.991412 0.000000 0.130748	</row2>
+			<row3>	88.806198 0.000000 82.041725	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP233_DJ/LBP233_DJ.model	</resource>
+		<transform>
+			<row0>	0.213304 0.000000 1.686564	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-1.481057 0.000000 0.237626	</row2>
+			<row3>	95.510735 0.000000 79.386467	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP233_DJ/LBP233_DJ.model	</resource>
+		<transform>
+			<row0>	-0.039793 0.000001 -0.999206	</row0>
+			<row1>	-0.000001 0.999998 0.000001	</row1>
+			<row2>	0.999206 0.000001 -0.039793	</row2>
+			<row3>	78.107841 -0.000007 97.961205	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP233_DJ/LBP233_DJ.model	</resource>
+		<transform>
+			<row0>	-0.039793 0.000001 -0.999206	</row0>
+			<row1>	-0.000001 0.999998 0.000001	</row1>
+			<row2>	0.999206 0.000001 -0.039793	</row2>
+			<row3>	84.130341 -0.000009 97.823128	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP232_DJ/LBP232_DJ.model	</resource>
+		<animation>
+			<name>	NL232_DJ	</name>
+			<frameRateMultiplier>	0.100000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	-0.998645 0.000000 0.051923	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.051923 0.000000 -0.998645	</row2>
+			<row3>	96.548103 0.235739 79.393700	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP219_DJ/LBP219_DJ.model	</resource>
+		<transform>
+			<row0>	-0.183051 0.000000 -1.135255	</row0>
+			<row1>	0.000000 1.149919 0.000000	</row1>
+			<row2>	1.135255 0.000000 -0.183051	</row2>
+			<row3>	99.547661 0.475988 66.578125	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	1.119049 0.000000 -0.178895	</row0>
+			<row1>	0.000000 1.133257 0.000000	</row1>
+			<row2>	0.178895 0.000000 1.119049	</row2>
+			<row3>	91.235596 1.940592 73.414703	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	1.119049 0.000000 -0.178895	</row0>
+			<row1>	0.000000 1.133256 0.000000	</row1>
+			<row2>	0.178895 0.000000 1.119049	</row2>
+			<row3>	94.911827 1.940589 72.846588	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP200_DJ/LBP200_DJ.model	</resource>
+		<transform>
+			<row0>	1.121519 0.000001 -0.162648	</row0>
+			<row1>	0.000000 1.404060 0.000002	</row1>
+			<row2>	0.162647 -0.000002 1.121516	</row2>
+			<row3>	92.843025 0.476607 73.139954	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP207_DJ/LBP207_DJ.model	</resource>
+		<transform>
+			<row0>	-0.155584 0.000002 -0.987812	</row0>
+			<row1>	0.000002 0.779457 0.000001	</row1>
+			<row2>	0.987812 -0.000001 -0.155583	</row2>
+			<row3>	88.213974 0.477152 74.047867	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	84.603111 0.494277 96.522896	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	84.285408 0.494277 96.541023	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	83.664116 0.494277 96.549721	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl5	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	83.029243 0.494277 96.596992	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	82.724739 0.494277 96.553566	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	82.418694 0.494277 96.588768	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	81.670311 0.494278 96.541405	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	81.352608 0.494278 96.559532	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	81.039467 0.494278 96.574867	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl5	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	80.731316 0.494278 96.568230	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	80.415352 0.494278 96.578667	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	79.791939 0.494278 96.572075	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	79.485893 0.494278 96.607277	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP206_DJ/LBP206_DJ.model	</resource>
+		<transform>
+			<row0>	0.733160 0.000002 -0.055094	</row0>
+			<row1>	-0.000001 0.687942 0.000001	</row1>
+			<row2>	0.036837 0.000000 0.490212	</row2>
+			<row3>	78.055916 0.485594 83.622650	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	76.370743 0.491747 82.062859	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl7	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	76.684395 0.491747 82.023300	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	76.991852 0.491747 82.001465	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl5	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	77.302231 0.491747 81.957283	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	79.229591 0.491747 81.837555	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	79.537048 0.491747 81.815720	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl5	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	79.847427 0.491747 81.771538	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	80.162102 0.491747 81.724159	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	76.289032 0.491746 81.242447	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	76.596489 0.491746 81.220612	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	76.906868 0.491746 81.176422	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl3	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	82.071327 0.494280 81.484711	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl5	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	82.384979 0.494280 81.445160	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	82.692436 0.494280 81.423325	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	83.002815 0.494280 81.379135	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl7	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	83.317490 0.494280 81.331757	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	84.925919 0.491747 81.145927	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	85.239563 0.491747 81.106377	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	85.547028 0.491747 81.084541	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	85.857407 0.491747 81.040352	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	86.172073 0.491747 80.992973	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl5	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP234_DJ/LBP234_DJ.model	</resource>
+		<transform>
+			<row0>	0.983232 0.000000 0.182341	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	-0.182341 0.000000 0.983232	</row2>
+			<row3>	75.175987 0.491746 93.883728	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP235_DJ/LBP235_DJ.model	</resource>
+		<transform>
+			<row0>	0.999170 0.000000 0.040718	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	-0.040718 0.000000 0.999170	</row2>
+			<row3>	75.382965 0.494279 90.920502	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP235_DJ/LBP235_DJ.model	</resource>
+		<transform>
+			<row0>	0.999998 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.999998	</row2>
+			<row3>	86.818130 0.491746 79.915161	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP238_DJ/LBP238_DJ.model	</resource>
+		<transform>
+			<row0>	0.697520 0.000000 -0.101992	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	0.046211 0.000000 0.316046	</row2>
+			<row3>	89.197037 0.253056 73.610352	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP237_DJ/LBP237_DJ.model	</resource>
+		<transform>
+			<row0>	-0.568824 0.000000 0.128173	</row0>
+			<row1>	0.000000 0.367215 0.000000	</row1>
+			<row2>	-0.052636 0.000000 -0.233597	</row2>
+			<row3>	68.507591 0.431864 77.623383	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP203_DJ/LBP203_DJ.model	</resource>
+		<transform>
+			<row0>	-0.979426 0.000002 -0.201780	</row0>
+			<row1>	0.000002 0.999994 0.000000	</row1>
+			<row2>	0.201780 0.000000 -0.979426	</row2>
+			<row3>	72.064415 0.470705 73.729492	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP204_DJ/LBP204_DJ.model	</resource>
+		<transform>
+			<row0>	0.976757 0.000000 0.214335	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.214335 0.000000 0.976757	</row2>
+			<row3>	71.809883 0.483425 71.114891	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP204_DJ/LBP204_DJ.model	</resource>
+		<transform>
+			<row0>	-0.976784 0.000000 -0.214203	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.214203 0.000000 -0.976784	</row2>
+			<row3>	73.254181 0.483427 67.188995	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP238_DJ/LBP238_DJ.model	</resource>
+		<transform>
+			<row0>	0.820600 0.000000 0.165628	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.109590 0.000000 0.542953	</row2>
+			<row3>	73.045280 0.254726 70.994148	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP205_DJ/LBP205_DJ.model	</resource>
+		<transform>
+			<row0>	0.980429 0.000002 0.196841	</row0>
+			<row1>	-0.000002 0.999994 -0.000001	</row1>
+			<row2>	-0.196841 0.000000 0.980429	</row2>
+			<row3>	79.361259 0.472383 75.476250	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-0.235250 -0.000003 1.159455	</row0>
+			<row1>	0.000001 0.866028 0.000001	</row1>
+			<row2>	-0.686413 0.000001 -0.139272	</row2>
+			<row3>	79.137627 3.195997 75.429161	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP216_DJ/LBP216_DJ.model	</resource>
+		<transform>
+			<row0>	1.090743 0.000000 -0.100362	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	0.091625 0.000000 0.995791	</row2>
+			<row3>	79.158424 0.485579 79.331703	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	-0.930174 0.000000 0.367109	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.367109 0.000000 -0.930174	</row2>
+			<row3>	85.243431 0.491747 80.164803	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl3	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP235_DJ/LBP235_DJ.model	</resource>
+		<transform>
+			<row0>	0.993767 0.000000 -0.111454	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.111454 0.000000 0.993767	</row2>
+			<row3>	84.437508 0.491747 81.048721	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	86.043457 0.494278 88.729393	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	85.423859 0.494278 88.771858	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	85.121033 0.494279 88.782356	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl5	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	84.824684 0.494279 88.817375	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	84.525993 0.494279 88.803322	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	84.230515 0.494279 88.838615	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl7	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	83.931480 0.494279 88.829613	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	83.289955 0.494278 88.873039	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	82.977592 0.494278 88.899940	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl5	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	82.669403 0.494278 88.904671	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	82.354042 0.494278 88.926735	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	82.036705 0.494278 88.975319	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	81.426247 0.494278 88.989616	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.258819 0.000000 0.965925	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.965925 0.000000 0.258819	</row2>
+			<row3>	75.946686 0.494277 96.494331	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.346881 0.000000 0.937908	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.937908 0.000000 0.346881	</row2>
+			<row3>	78.707520 0.491747 81.618599	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	-0.168546 0.000000 0.985692	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.985692 0.000000 -0.168546	</row2>
+			<row3>	75.810120 0.491746 81.157394	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl3	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.092313 0.000000 0.995729	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.995729 0.000000 0.092313	</row2>
+			<row3>	77.267700 0.491746 81.004562	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	-0.168546 0.000000 0.985692	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.985692 0.000000 -0.168546	</row2>
+			<row3>	77.702309 0.491747 82.049347	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl4	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.937907 0.000000 -0.346880	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	0.346880 0.000000 0.937907	</row2>
+			<row3>	76.024040 0.491747 84.459938	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl4	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP235_DJ/LBP235_DJ.model	</resource>
+		<transform>
+			<row0>	0.993767 0.000000 -0.111454	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.111454 0.000000 0.993767	</row2>
+			<row3>	76.793823 0.494279 84.361237	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP235_DJ/LBP235_DJ.model	</resource>
+		<transform>
+			<row0>	0.111454 0.000000 0.993766	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.993766 0.000000 0.111454	</row2>
+			<row3>	77.423019 0.494279 84.334572	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP234_DJ/LBP234_DJ.model	</resource>
+		<transform>
+			<row0>	-0.999992 0.000000 0.003731	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.003731 0.000000 -0.999992	</row2>
+			<row3>	80.712494 0.494279 83.976768	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	0.008796 -0.000068 -0.649467	</row0>
+			<row1>	0.664102 0.000679 0.031926	</row1>
+			<row2>	0.000088 -0.193146 0.000025	</row2>
+			<row3>	86.479248 0.494712 96.920204	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_02.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_02_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_02_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-0.600273 -0.000063 -0.008130	</row0>
+			<row1>	0.033907 0.000721 -0.705311	</row1>
+			<row2>	0.000025 -0.193146 -0.000088	</row2>
+			<row3>	86.548683 0.494620 96.077408	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_02.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_02_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_02_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-0.007347 0.000039 -0.198746	</row0>
+			<row1>	0.418787 0.005680 -0.001027	</row1>
+			<row2>	0.001703 -0.131027 -0.000086	</row2>
+			<row3>	86.599869 0.494666 96.522049	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_01.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_01_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_01_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	0.655440 0.000520 -18.986650	</row0>
+			<row1>	0.417177 0.000432 0.028832	</row1>
+			<row2>	0.000196 -0.416257 0.000002	</row2>
+			<row3>	75.353104 0.494624 94.252068	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_01.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_01_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_01_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-0.022008 -0.000122 0.581436	</row0>
+			<row1>	-0.663126 0.000653 -0.048046	</row1>
+			<row2>	-0.000078 -0.193145 -0.000047	</row2>
+			<row3>	76.153236 0.494345 84.519730	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_02.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_02_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_02_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-3.859783 0.063309 0.556025	</row0>
+			<row1>	-0.045306 0.000430 -0.415710	</row1>
+			<row2>	-0.004468 -0.275844 0.000358	</row2>
+			<row3>	78.387360 0.397128 84.267258	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_01.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_01_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_01_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-0.129229 -0.000122 -0.567319	</row0>
+			<row1>	0.652965 0.000653 -0.125221	</row1>
+			<row2>	0.000088 -0.193145 0.000025	</row2>
+			<row3>	80.618370 0.494411 83.915184	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_02.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_02_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_02_mg.tga	</texture2>
+	</staticDecal>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.993918 0.000000 0.110092	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.053957 0.000000 -0.487127	</row2>
+			<row3>	80.630867 0.000000 83.362274	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	0.075274 -0.000098 0.576961	</row0>
+			<row1>	-0.661850 0.000665 0.063225	</row1>
+			<row2>	-0.000088 -0.193145 -0.000025	</row2>
+			<row3>	80.651039 0.494285 82.208809	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_02.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_02_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_02_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	0.168045 0.019134 1.166523	</row0>
+			<row1>	-0.415709 0.000430 0.045306	</row1>
+			<row2>	0.000358 -0.275843 0.004468	</row2>
+			<row3>	80.631485 0.500261 83.056618	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_01.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_01_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_01_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-11.431378 0.187631 1.749303	</row0>
+			<row1>	-0.048952 0.000490 -0.415295	</row1>
+			<row2>	-0.004468 -0.275843 0.000358	</row2>
+			<row3>	86.693497 0.463472 81.431557	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_01.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_01_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_01_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-0.075274 -0.000098 -0.576960	</row0>
+			<row1>	0.661849 0.000665 -0.063225	</row1>
+			<row2>	0.000088 -0.193145 0.000025	</row2>
+			<row3>	92.719345 0.492057 80.645332	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_02.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_02_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_02_mg.tga	</texture2>
+	</staticDecal>
+	<model>
+		<resource>	content/location/building/port/LBP229_DJ/LBP229_DJ.model	</resource>
+		<transform>
+			<row0>	-0.994650 0.000000 0.103275	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.061163 0.000000 -0.589062	</row2>
+			<row3>	92.637756 0.000000 79.833450	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	0.200796 0.022863 1.393870	</row0>
+			<row1>	-0.415709 0.000430 0.045306	</row1>
+			<row2>	0.000358 -0.275843 0.004468	</row2>
+			<row3>	92.740700 0.496398 79.649734	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_01.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_01_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_01_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	0.078069 -0.000161 0.576587	</row0>
+			<row1>	-0.661534 0.000624 0.066431	</row1>
+			<row2>	-0.000079 -0.193145 -0.000047	</row2>
+			<row3>	92.746376 0.494243 78.658226	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_02.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_02_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_02_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-7.799560 0.128629 1.662220	</row0>
+			<row1>	-0.072989 0.000884 -0.411749	</row1>
+			<row2>	-0.004468 -0.275842 0.000358	</row2>
+			<row3>	96.945473 0.449346 77.876503	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_01.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_01_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_01_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	10.618515 0.001145 -0.464472	</row0>
+			<row1>	0.004156 0.006119 0.451018	</row1>
+			<row2>	0.000086 -0.131028 0.001703	</row2>
+			<row3>	80.846848 0.435207 97.031807	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_01.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_01_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_01_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-0.008796 -0.000068 0.649466	</row0>
+			<row1>	-0.664101 0.000679 -0.031926	</row1>
+			<row2>	-0.000088 -0.193146 -0.000025	</row2>
+			<row3>	75.270988 0.494701 97.159073	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_02.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_02_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_02_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	0.595879 -0.000033 0.072941	</row0>
+			<row1>	-0.109916 0.000727 0.697517	</row1>
+			<row2>	-0.000025 -0.193146 0.000088	</row2>
+			<row3>	75.286232 0.523894 95.972069	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_02.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_02_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_02_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	10.707467 -0.000175 -0.570517	</row0>
+			<row1>	0.008450 0.006121 0.450958	</row1>
+			<row2>	0.000086 -0.131028 0.001703	</row2>
+			<row3>	80.913811 0.489272 96.035820	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_01.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_01_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_01_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	10.672954 -0.000173 -1.031092	</row0>
+			<row1>	0.027862 0.006121 0.450175	</row1>
+			<row2>	0.000159 -0.131028 0.001698	</row2>
+			<row3>	81.282051 0.493968 88.561218	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_01.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_01_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_01_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	0.598467 -0.000033 0.047212	</row0>
+			<row1>	-0.079776 0.000727 0.701603	</row1>
+			<row2>	-0.000021 -0.193146 0.000089	</row2>
+			<row3>	75.806458 0.528589 88.739861	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_02.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_02_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_02_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	0.019181 -0.000068 0.649241	</row0>
+			<row1>	-0.664859 0.000679 -0.003297	</row1>
+			<row2>	-0.000089 -0.193146 -0.000021	</row2>
+			<row3>	75.755699 0.499395 90.011169	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_02.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_02_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_02_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	10.585276 0.001150 -0.959209	</row0>
+			<row1>	0.025187 0.006119 0.450333	</row1>
+			<row2>	0.000165 -0.131028 0.001697	</row2>
+			<row3>	81.258003 0.439902 89.627274	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_01.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_01_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_01_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-0.019181 -0.000068 -0.649242	</row0>
+			<row1>	0.664860 0.000679 0.003297	</row1>
+			<row2>	0.000089 -0.193146 0.000021	</row2>
+			<row3>	86.880386 0.460182 89.256554	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_02.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_02_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_02_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-0.015899 0.000039 -0.254828	</row0>
+			<row1>	0.418354 0.005680 -0.024501	</row1>
+			<row2>	0.001698 -0.131027 -0.000205	</row2>
+			<row3>	86.983749 0.499362 88.829163	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_01.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_01_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_01_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-0.600065 -0.000063 0.017728	</row0>
+			<row1>	0.003502 0.000721 -0.706116	</row1>
+			<row2>	0.000021 -0.193146 -0.000089	</row2>
+			<row3>	86.913483 0.499317 88.371742	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_02.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_02_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_02_mg.tga	</texture2>
+	</staticDecal>
+	<model>
+		<resource>	content/location/building/port/LBP235_DJ/LBP235_DJ.model	</resource>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	80.862503 0.494279 89.044067	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	77.063591 0.494278 89.350510	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	77.378952 0.494278 89.328445	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	77.687141 0.494278 89.323715	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	77.999504 0.494278 89.296822	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	78.316322 0.494278 89.267006	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	78.641029 0.494279 89.253387	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	78.940063 0.494279 89.262398	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl5	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	79.235542 0.494279 89.227097	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	79.830528 0.494279 89.195511	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	80.133354 0.494278 89.185013	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.036881 0.000000 0.999318	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999318 0.000000 0.036881	</row2>
+			<row3>	80.450226 0.494278 89.165787	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP234_DJ/LBP234_DJ.model	</resource>
+		<transform>
+			<row0>	-0.003731 0.000000 -0.999990	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	0.999990 0.000000 -0.003731	</row2>
+			<row3>	86.286682 0.494277 96.637917	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP234_DJ/LBP234_DJ.model	</resource>
+		<transform>
+			<row0>	-0.999992 0.000000 0.003731	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.003731 0.000000 -0.999992	</row2>
+			<row3>	86.606194 0.494277 88.635193	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	-0.965917 0.000000 0.258816	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.258816 0.000000 -0.965917	</row2>
+			<row3>	91.280838 0.491747 79.948715	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.965921 0.000000 0.258818	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.258818 0.000000 -0.965921	</row2>
+			<row3>	66.259003 0.491746 78.721626	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.866022 0.000000 0.499998	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.499998 0.000000 -0.866022	</row2>
+			<row3>	65.770432 0.491746 78.845024	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.965923 0.000000 0.258818	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.258818 0.000000 -0.965923	</row2>
+			<row3>	65.580490 0.491746 78.900612	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.965921 0.000000 0.258818	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.258818 0.000000 -0.965921	</row2>
+			<row3>	68.019829 0.491748 78.362366	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.866022 0.000000 0.499998	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.499998 0.000000 -0.866022	</row2>
+			<row3>	67.531296 0.491748 78.485764	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.965923 0.000000 0.258818	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.258818 0.000000 -0.965923	</row2>
+			<row3>	67.341339 0.491748 78.541351	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.971956 0.000000 0.235141	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.235141 0.000000 -0.971956	</row2>
+			<row3>	68.914543 0.491748 78.215240	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.877979 0.000000 0.478690	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.478690 0.000000 -0.877979	</row2>
+			<row3>	68.423119 0.491748 78.326668	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.971958 0.000000 0.235141	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.235141 0.000000 -0.971958	</row2>
+			<row3>	68.231880 0.491748 78.377594	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.995245 0.000000 0.097369	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.097369 0.000000 0.995245	</row2>
+			<row3>	68.422951 0.491745 77.662941	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.986532 0.000000 -0.163537	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.163537 0.000000 0.986532	</row2>
+			<row3>	68.225578 0.491745 77.648186	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.995243 0.000000 0.097368	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.097368 0.000000 0.995243	</row2>
+			<row3>	67.724838 0.491745 77.591896	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.995245 0.000000 0.097369	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.097369 0.000000 0.995245	</row2>
+			<row3>	66.648239 0.491747 77.380074	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.986532 0.000000 -0.163537	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.163537 0.000000 0.986532	</row2>
+			<row3>	66.450867 0.491747 77.365318	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.995243 0.000000 0.097368	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.097368 0.000000 0.995243	</row2>
+			<row3>	65.950134 0.491747 77.309044	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	-0.258816 0.000000 -0.965917	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	0.965917 0.000000 -0.258816	</row2>
+			<row3>	90.534454 0.491747 78.375778	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP235_DJ/LBP235_DJ.model	</resource>
+		<transform>
+			<row0>	0.999998 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.999998	</row2>
+			<row3>	92.112297 0.491746 80.086365	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP235_DJ/LBP235_DJ.model	</resource>
+		<transform>
+			<row0>	-0.258818 0.000000 -0.965923	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	0.965923 0.000000 -0.258818	</row2>
+			<row3>	88.631653 0.491747 80.507263	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	-0.168546 0.000000 0.985692	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.985692 0.000000 -0.168546	</row2>
+			<row3>	90.764923 0.491747 80.309540	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl7	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.995727 0.000000 -0.092313	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	0.092313 0.000000 0.995727	</row2>
+			<row3>	90.458481 0.491745 79.321289	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	-0.995727 0.000000 0.092313	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.092313 0.000000 -0.995727	</row2>
+			<row3>	90.400261 0.491745 78.961227	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	-0.937907 0.000000 0.346881	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	-0.346881 0.000000 -0.937907	</row2>
+			<row3>	89.397766 0.491745 79.340378	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.995728 0.000000 -0.092313	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.092313 0.000000 0.995728	</row2>
+			<row3>	89.709656 0.491746 79.876404	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.995728 0.000000 -0.092313	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.092313 0.000000 0.995728	</row2>
+			<row3>	89.731499 0.491746 80.183861	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.995728 0.000000 -0.092313	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.092313 0.000000 0.995728	</row2>
+			<row3>	89.771049 0.491746 80.497513	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl5	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	-0.707100 0.000000 0.707099	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.707099 0.000000 -0.707100	</row2>
+			<row3>	88.408806 0.491746 79.334999	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	0.258815 0.000000 0.965915	</row0>
+			<row1>	0.000000 0.999991 0.000000	</row1>
+			<row2>	-0.965915 0.000000 0.258815	</row2>
+			<row3>	84.539803 0.491747 78.531258	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP237_DJ/LBP237_DJ.model	</resource>
+		<transform>
+			<row0>	0.998021 0.000000 -0.062866	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	0.062866 0.000000 0.998021	</row2>
+			<row3>	67.761230 0.310779 93.732491	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-0.053523 -0.000060 5.162751	</row0>
+			<row1>	-0.858487 0.000888 -0.038540	</row1>
+			<row2>	-0.000196 -0.416256 -0.000014	</row2>
+			<row3>	74.390724 0.491746 95.273148	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_03.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_03_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_03_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-0.053523 -0.000060 5.162749	</row0>
+			<row1>	-0.858487 0.000888 -0.038540	</row1>
+			<row2>	-0.000196 -0.416256 -0.000014	</row2>
+			<row3>	74.613838 0.491747 90.349129	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_03.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_03_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_03_mg.tga	</texture2>
+	</staticDecal>
+	<model>
+		<resource>	content/location/building/port/LBP235_DJ/LBP235_DJ.model	</resource>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	74.058495 0.494278 89.078270	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-0.053523 -0.000060 5.162745	</row0>
+			<row1>	-0.858487 0.000888 -0.038540	</row1>
+			<row2>	-0.000196 -0.416256 -0.000014	</row2>
+			<row3>	74.838013 0.491747 85.460381	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_03.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_03_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_03_mg.tga	</texture2>
+	</staticDecal>
+	<model>
+		<resource>	content/location/building/port/LBP212_DJ/LBP212_DJ.model	</resource>
+		<transform>
+			<row0>	-0.983872 0.000002 -0.178843	</row0>
+			<row1>	0.000002 0.999995 0.000000	</row1>
+			<row2>	0.178843 0.000000 -0.983872	</row2>
+			<row3>	72.528366 0.417185 77.142387	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP212_DJ/LBP212_DJ.model	</resource>
+		<transform>
+			<row0>	-0.983871 0.000002 -0.178842	</row0>
+			<row1>	0.000002 0.999993 0.000000	</row1>
+			<row2>	0.178842 0.000000 -0.983871	</row2>
+			<row3>	67.704788 0.471173 76.282173	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.994677 0.000000 -0.102992	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.102992 0.000000 0.994677	</row2>
+			<row3>	97.268867 0.491745 65.173630	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.934128 0.000000 -0.356923	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.356923 0.000000 0.934128	</row2>
+			<row3>	97.072533 0.491746 65.198517	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.994676 0.000000 -0.102991	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.102991 0.000000 0.994676	</row2>
+			<row3>	96.570580 0.491746 65.243210	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.934128 0.000000 -0.356923	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.356923 0.000000 0.934128	</row2>
+			<row3>	94.261154 0.491746 65.644943	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.994677 0.000000 -0.102992	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.102992 0.000000 0.994677	</row2>
+			<row3>	93.920761 0.491745 65.675613	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.994677 0.000000 -0.102992	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.102992 0.000000 0.994677	</row2>
+			<row3>	93.759232 0.491746 65.689621	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.994677 0.000000 -0.102992	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.102992 0.000000 0.994677	</row2>
+			<row3>	96.370392 0.491746 65.851547	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.934128 0.000000 -0.356923	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.356923 0.000000 0.934128	</row2>
+			<row3>	96.174057 0.491747 65.876434	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.994676 0.000000 -0.102991	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.102991 0.000000 0.994676	</row2>
+			<row3>	95.672104 0.491747 65.921127	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.934128 0.000000 -0.356923	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.356923 0.000000 0.934128	</row2>
+			<row3>	93.362679 0.491747 66.322861	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.994677 0.000000 -0.102992	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.102992 0.000000 0.994677	</row2>
+			<row3>	93.022285 0.491746 66.353531	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.994677 0.000000 -0.102992	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.102992 0.000000 0.994677	</row2>
+			<row3>	92.860756 0.491747 66.367523	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.994677 0.000000 -0.102992	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.102992 0.000000 0.994677	</row2>
+			<row3>	96.863258 0.491746 66.238129	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.934128 0.000000 -0.356923	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.356923 0.000000 0.934128	</row2>
+			<row3>	96.666924 0.491747 66.263016	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.994676 0.000000 -0.102991	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.102991 0.000000 0.994676	</row2>
+			<row3>	96.164970 0.491747 66.307709	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.934128 0.000000 -0.356923	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.356923 0.000000 0.934128	</row2>
+			<row3>	93.855545 0.491747 66.709442	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.994677 0.000000 -0.102992	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.102992 0.000000 0.994677	</row2>
+			<row3>	93.515152 0.491746 66.740112	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.994677 0.000000 -0.102992	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.102992 0.000000 0.994677	</row2>
+			<row3>	93.353622 0.491747 66.754120	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	-0.965916 0.000000 0.258816	</row0>
+			<row1>	0.000000 0.999991 0.000000	</row1>
+			<row2>	-0.258816 0.000000 -0.965916	</row2>
+			<row3>	97.279839 0.491747 66.252197	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	-0.965916 0.000000 0.258816	</row0>
+			<row1>	0.000000 0.999991 0.000000	</row1>
+			<row2>	-0.258816 0.000000 -0.965916	</row2>
+			<row3>	97.191566 0.491747 67.614197	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	-0.965916 0.000000 0.258816	</row0>
+			<row1>	0.000000 0.999991 0.000000	</row1>
+			<row2>	-0.258816 0.000000 -0.965916	</row2>
+			<row3>	96.789452 0.491747 67.581528	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	-0.965916 0.000000 0.258816	</row0>
+			<row1>	0.000000 0.999991 0.000000	</row1>
+			<row2>	-0.258816 0.000000 -0.965916	</row2>
+			<row3>	93.383705 0.491747 65.754318	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	-0.965916 0.000000 0.258816	</row0>
+			<row1>	0.000000 0.999991 0.000000	</row1>
+			<row2>	-0.258816 0.000000 -0.965916	</row2>
+			<row3>	95.918747 0.491747 65.169373	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.731339 0.000000 0.682012	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.682012 0.000000 0.731339	</row2>
+			<row3>	65.215988 0.491745 97.973503	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.731339 0.000000 0.682012	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.682012 0.000000 0.731339	</row2>
+			<row3>	66.167923 0.491745 98.848228	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.731339 0.000000 0.682012	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.682012 0.000000 0.731339	</row2>
+			<row3>	67.117371 0.491744 99.715179	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.739101 0.000000 0.673592	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.673592 0.000000 0.739101	</row2>
+			<row3>	55.666241 0.491746 89.365967	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.739101 0.000000 0.673592	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.673592 0.000000 0.739101	</row2>
+			<row3>	56.628120 0.491746 90.229736	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.739101 0.000000 0.673592	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.673592 0.000000 0.739101	</row2>
+			<row3>	57.587437 0.491745 91.085754	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.739100 0.000000 0.673592	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.673592 0.000000 0.739100	</row2>
+			<row3>	58.523163 0.491745 91.931419	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.739100 0.000000 0.673592	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.673592 0.000000 0.739100	</row2>
+			<row3>	59.485043 0.491745 92.795189	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.739100 0.000000 0.673592	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.673592 0.000000 0.739100	</row2>
+			<row3>	60.444359 0.491744 93.651207	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.739100 0.000000 0.673592	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.673592 0.000000 0.739100	</row2>
+			<row3>	61.375965 0.491745 94.491867	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.739100 0.000000 0.673592	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.673592 0.000000 0.739100	</row2>
+			<row3>	62.337845 0.491745 95.355637	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.739100 0.000000 0.673592	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.673592 0.000000 0.739100	</row2>
+			<row3>	63.297161 0.491744 96.211655	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.999024 0.000000 0.044099	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	-0.044099 0.000000 0.999024	</row2>
+			<row3>	58.384457 0.491746 89.030945	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.999024 0.000000 0.044099	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	-0.044099 0.000000 0.999024	</row2>
+			<row3>	55.807549 0.491747 88.940224	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.999024 0.000000 0.044099	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	-0.044099 0.000000 0.999024	</row2>
+			<row3>	57.099472 0.491747 88.987740	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.999024 0.000000 0.044099	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	-0.044099 0.000000 0.999024	</row2>
+			<row3>	62.238476 0.491745 89.171227	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.999024 0.000000 0.044099	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	-0.044099 0.000000 0.999024	</row2>
+			<row3>	59.661568 0.491746 89.080505	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.999024 0.000000 0.044099	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	-0.044099 0.000000 0.999024	</row2>
+			<row3>	60.953491 0.491746 89.128021	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.999024 0.000000 0.044099	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	-0.044099 0.000000 0.999024	</row2>
+			<row3>	66.098206 0.491745 89.287544	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.999024 0.000000 0.044099	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	-0.044099 0.000000 0.999024	</row2>
+			<row3>	63.521290 0.491746 89.196823	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.999024 0.000000 0.044099	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	-0.044099 0.000000 0.999024	</row2>
+			<row3>	67.419968 0.491746 89.310112	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	1.113314 0.000000 0.044099	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.049144 0.000000 0.999023	</row2>
+			<row3>	73.128883 0.491746 89.496170	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	1.113314 0.000000 0.044099	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.049144 0.000000 0.999023	</row2>
+			<row3>	71.689201 0.491746 89.448654	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	1.113314 0.000000 0.044099	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.049144 0.000000 0.999023	</row2>
+			<row3>	70.215630 0.491745 89.400795	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	1.113314 0.000000 0.044099	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.049144 0.000000 0.999023	</row2>
+			<row3>	68.783623 0.491746 89.357590	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.044099 0.000000 -0.578985	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.999022 0.000000 0.025558	</row2>
+			<row3>	73.732895 0.491746 89.977676	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	3.939103 -0.000141 3.337726	</row0>
+			<row1>	-0.577823 0.000887 0.636086	</row1>
+			<row2>	-0.000140 -0.416257 0.000137	</row2>
+			<row3>	62.234318 0.594783 96.358307	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_03.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_03_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_03_mg.tga	</texture2>
+	</staticDecal>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.801971 0.000000 0.721371	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.668620 0.000000 0.743598	</row2>
+			<row3>	64.011765 0.494231 99.221802	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.801971 0.000000 0.721371	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.668620 0.000000 0.743598	</row2>
+			<row3>	62.962032 0.494230 98.299667	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.801971 0.000000 0.721371	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.668620 0.000000 0.743598	</row2>
+			<row3>	61.923229 0.494230 97.382507	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.801971 0.000000 0.721371	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.668620 0.000000 0.743598	</row2>
+			<row3>	60.874424 0.494230 96.456100	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.801971 0.000000 0.721371	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.668620 0.000000 0.743598	</row2>
+			<row3>	55.644859 0.494234 91.836807	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.801971 0.000000 0.721371	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.668620 0.000000 0.743598	</row2>
+			<row3>	56.693672 0.494233 92.762985	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.801971 0.000000 0.721371	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.668620 0.000000 0.743598	</row2>
+			<row3>	57.742485 0.494233 93.689392	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.801971 0.000000 0.721371	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.668620 0.000000 0.743598	</row2>
+			<row3>	58.781288 0.494233 94.606552	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP217_DJ/LBP217_DJ.model	</resource>
+		<transform>
+			<row0>	-0.766881 0.000000 -0.641784	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.641784 0.000000 -0.766881	</row2>
+			<row3>	56.916393 0.493827 94.757439	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP218_DJ/LBP218_DJ.model	</resource>
+		<transform>
+			<row0>	-0.757743 0.000000 -0.652547	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	0.652547 0.000000 -0.757743	</row2>
+			<row3>	56.025902 0.493832 96.886902	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.793827 0.000000 0.730323	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.676920 0.000000 0.736049	</row2>
+			<row3>	55.511292 0.494232 97.932388	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.793827 0.000000 0.730323	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.676920 0.000000 0.736049	</row2>
+			<row3>	54.477394 0.494234 96.997360	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.793827 0.000000 0.730323	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.676920 0.000000 0.736049	</row2>
+			<row3>	53.448948 0.494234 96.068604	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.709414 0.000000 0.652663	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.676917 0.000000 0.736045	</row2>
+			<row3>	52.478447 0.494234 95.196396	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.730323 0.000000 -0.793825	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.736048 0.000000 0.676920	</row2>
+			<row3>	52.382790 0.494231 94.258995	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.730323 0.000000 -0.793825	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.736048 0.000000 0.676920	</row2>
+			<row3>	53.324677 0.494231 93.221275	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.967529 0.000000 -1.051655	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.736047 0.000000 0.676919	</row2>
+			<row3>	54.412643 0.494230 92.021126	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.809304 0.000000 0.713133	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.660982 0.000000 0.750395	</row2>
+			<row3>	54.557072 0.493815 99.520187	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.809304 0.000000 0.713133	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.660982 0.000000 0.750395	</row2>
+			<row3>	53.508945 0.493815 98.613693	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.722420 0.000000 -0.801024	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.742721 0.000000 0.669593	</row2>
+			<row3>	49.658840 0.493817 99.909363	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.722420 0.000000 -0.801024	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.742721 0.000000 0.669593	</row2>
+			<row3>	50.573910 0.493819 98.873665	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.722420 0.000000 -0.801024	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.742721 0.000000 0.669593	</row2>
+			<row3>	51.501461 0.493818 97.826065	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.730702 0.000000 0.669659	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.675504 0.000000 0.737349	</row2>
+			<row3>	52.527287 0.493814 97.746376	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	0.866016 0.000000 0.499995	</row0>
+			<row1>	0.000000 0.999990 0.000000	</row1>
+			<row2>	-0.499995 0.000000 0.866016	</row2>
+			<row3>	59.314705 0.491748 90.437386	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.776169 0.000000 -0.630516	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.630516 0.000000 -0.776169	</row2>
+			<row3>	59.599327 0.491747 90.741890	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.912910 0.000000 -0.408145	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.408145 0.000000 -0.912910	</row2>
+			<row3>	59.755756 0.491748 90.863113	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.776169 0.000000 -0.630516	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.630516 0.000000 -0.776169	</row2>
+			<row3>	59.674480 0.491747 91.363754	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.912910 0.000000 -0.408145	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.408145 0.000000 -0.912910	</row2>
+			<row3>	59.830906 0.491748 91.484978	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.776167 0.000000 -0.630516	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.630516 0.000000 -0.776167	</row2>
+			<row3>	59.102776 0.491747 91.652359	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.912910 0.000000 -0.408145	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.408145 0.000000 -0.912910	</row2>
+			<row3>	58.716236 0.491747 91.329018	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.776169 0.000000 -0.630516	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.630516 0.000000 -0.776169	</row2>
+			<row3>	58.559818 0.491746 91.207787	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.776167 0.000000 -0.630516	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.630516 0.000000 -0.776167	</row2>
+			<row3>	60.142284 0.491748 91.186455	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.776167 0.000000 -0.630516	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.630516 0.000000 -0.776167	</row2>
+			<row3>	60.217438 0.491748 91.808319	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	0.866016 0.000000 0.499995	</row0>
+			<row1>	0.000000 0.999990 0.000000	</row1>
+			<row2>	-0.499995 0.000000 0.866016	</row2>
+			<row3>	59.511475 0.491748 92.165482	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.912910 0.000000 -0.408145	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.408145 0.000000 -0.912910	</row2>
+			<row3>	61.019848 0.491747 93.001297	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.776169 0.000000 -0.630516	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.630516 0.000000 -0.776169	</row2>
+			<row3>	61.282230 0.491746 93.220306	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.776168 0.000000 -0.630516	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.630516 0.000000 -0.776168	</row2>
+			<row3>	57.783981 0.491746 90.554527	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.912910 0.000000 -0.408145	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.408145 0.000000 -0.912910	</row2>
+			<row3>	57.940411 0.491747 90.675751	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.776167 0.000000 -0.630516	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.630516 0.000000 -0.776167	</row2>
+			<row3>	58.326939 0.491747 90.999092	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.776168 0.000000 -0.630516	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.630516 0.000000 -0.776168	</row2>
+			<row3>	57.077923 0.491746 89.977943	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.912910 0.000000 -0.408145	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.408145 0.000000 -0.912910	</row2>
+			<row3>	57.234352 0.491747 90.099167	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.776167 0.000000 -0.630516	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.630516 0.000000 -0.776167	</row2>
+			<row3>	57.620880 0.491747 90.422508	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.776168 0.000000 -0.630516	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.630516 0.000000 -0.776168	</row2>
+			<row3>	56.797878 0.491745 89.732666	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.912910 0.000000 -0.408145	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.408145 0.000000 -0.912910	</row2>
+			<row3>	56.954308 0.491746 89.853889	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.776167 0.000000 -0.630516	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.630516 0.000000 -0.776167	</row2>
+			<row3>	57.340836 0.491746 90.177231	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	-0.992586 0.000000 0.121445	</row0>
+			<row1>	0.000000 0.999989 0.000000	</row1>
+			<row2>	-0.121445 0.000000 -0.992586	</row2>
+			<row3>	61.025845 0.491745 90.137627	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.999312 0.000000 0.036868	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.036868 0.000000 0.999312	</row2>
+			<row3>	60.615314 0.491744 90.065552	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.974804 0.000000 -0.223029	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.223029 0.000000 0.974804	</row2>
+			<row3>	60.417427 0.491745 90.062790	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.999312 0.000000 0.036869	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.036869 0.000000 0.999312	</row2>
+			<row3>	59.914150 0.491745 90.036964	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.999312 0.000000 0.036868	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.036868 0.000000 0.999312	</row2>
+			<row3>	60.181225 0.491744 89.613945	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.974804 0.000000 -0.223029	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.223029 0.000000 0.974804	</row2>
+			<row3>	59.983364 0.491745 89.611183	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	-0.121445 0.000000 -0.992585	</row0>
+			<row1>	0.000000 0.999988 0.000000	</row1>
+			<row2>	0.992585 0.000000 -0.121445	</row2>
+			<row3>	64.377319 0.491746 92.657150	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.036868 0.000000 0.999311	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.999311 0.000000 -0.036868	</row2>
+			<row3>	64.449387 0.491745 92.246613	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.223029 0.000000 0.974803	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.974803 0.000000 0.223029	</row2>
+			<row3>	64.452148 0.491746 92.048737	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.036869 0.000000 0.999311	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	-0.999311 0.000000 -0.036869	</row2>
+			<row3>	64.477982 0.491746 91.545456	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.036868 0.000000 0.999311	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.999311 0.000000 -0.036868	</row2>
+			<row3>	64.901001 0.491745 91.812538	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.223029 0.000000 0.974803	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.974803 0.000000 0.223029	</row2>
+			<row3>	64.903763 0.491746 91.614670	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	0.139593 0.000000 -0.990195	</row0>
+			<row1>	0.000000 0.999988 0.000000	</row1>
+			<row2>	0.990195 0.000000 0.139593	</row2>
+			<row3>	64.005142 0.491747 94.681976	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.294252 0.000000 0.955718	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.955718 0.000000 -0.294252	</row2>
+			<row3>	64.181015 0.491746 94.304085	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.036868 0.000000 0.999311	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.999311 0.000000 -0.036868	</row2>
+			<row3>	64.234909 0.491747 94.113670	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.294253 0.000000 0.955718	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	-0.955718 0.000000 -0.294253	</row2>
+			<row3>	64.390106 0.491747 93.634216	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.294252 0.000000 0.955718	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.955718 0.000000 -0.294252	</row2>
+			<row3>	64.729584 0.491746 94.001686	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.036868 0.000000 0.999311	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.999311 0.000000 -0.036868	</row2>
+			<row3>	64.783463 0.491747 93.811272	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	0.053457 0.000000 -0.998556	</row0>
+			<row1>	0.000000 0.999988 0.000000	</row1>
+			<row2>	0.998556 0.000000 0.053457	</row2>
+			<row3>	64.876877 0.491747 93.306213	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.210518 0.000000 0.977580	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.977580 0.000000 -0.210518	</row2>
+			<row3>	65.019424 0.491746 92.914536	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.049672 0.000000 0.998756	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.998756 0.000000 0.049672	</row2>
+			<row3>	65.056641 0.491747 92.720177	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.210519 0.000000 0.977580	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	-0.977580 0.000000 -0.210519	</row2>
+			<row3>	65.169800 0.491747 92.229088	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.210518 0.000000 0.977580	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.977580 0.000000 -0.210518	</row2>
+			<row3>	65.539780 0.491746 92.565842	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.049672 0.000000 0.998756	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.998756 0.000000 0.049672	</row2>
+			<row3>	65.576996 0.491747 92.371483	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	0.000001 0.000000 -0.999989	</row0>
+			<row1>	0.000000 0.999989 0.000000	</row1>
+			<row2>	0.999989 0.000000 0.000001	</row2>
+			<row3>	66.958389 0.491747 90.671089	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.157959 0.000000 0.987438	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.987438 0.000000 -0.157959	</row2>
+			<row3>	67.079788 0.491746 90.272346	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.102991 0.000000 0.994675	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.994675 0.000000 0.102991	</row2>
+			<row3>	67.106552 0.491747 90.076263	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.294252 0.000000 0.955719	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.955719 0.000000 -0.294252	</row2>
+			<row3>	63.853271 0.491746 89.964752	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.036868 0.000000 0.999312	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.999312 0.000000 -0.036868	</row2>
+			<row3>	63.907154 0.491747 89.774338	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP232_DJ/LBP232_DJ.model	</resource>
+		<animation>
+			<name>	NL232_DJ	</name>
+			<frameRateMultiplier>	0.210000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	-1.289394 0.000000 0.399948	</row0>
+			<row1>	0.000000 1.349999 0.000000	</row1>
+			<row2>	-0.399948 0.000000 -1.289395	</row2>
+			<row3>	78.922455 0.551807 97.114189	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP231_DJ/LBP231_DJ.model	</resource>
+		<transform>
+			<row0>	-1.348377 0.000000 0.066140	</row0>
+			<row1>	0.000000 1.349999 0.000000	</row1>
+			<row2>	-0.066140 0.000000 -1.348378	</row2>
+			<row3>	77.650352 0.554338 89.821251	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP232_DJ/LBP232_DJ.model	</resource>
+		<animation>
+			<name>	NL232_DJ	</name>
+			<frameRateMultiplier>	0.100000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	-1.132507 0.000000 0.734795	</row0>
+			<row1>	0.000000 1.349998 0.000000	</row1>
+			<row2>	-0.734795 0.000000 -1.132507	</row2>
+			<row3>	81.390129 0.551238 82.039215	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP232_DJ/LBP232_DJ.model	</resource>
+		<animation>
+			<name>	NL232_DJ	</name>
+			<frameRateMultiplier>	0.300000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	-1.348177 0.000000 0.070097	</row0>
+			<row1>	0.000000 1.349999 0.000000	</row1>
+			<row2>	-0.070097 0.000000 -1.348178	</row2>
+			<row3>	86.921959 0.520703 81.434174	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-0.582124 0.013753 1.323396	</row0>
+			<row1>	1.583654 1.010595 0.686099	</row1>
+			<row2>	-0.561194 1.054442 -0.257809	</row2>
+			<row3>	51.491817 2.964244 72.967125	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-1.438539 -0.119873 0.081759	</row0>
+			<row1>	-0.004834 1.166213 1.624782	</row1>
+			<row2>	-0.122602 0.987558 -0.709200	</row2>
+			<row3>	61.268959 4.978133 61.125622	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-1.441137 -0.069645 0.093429	</row0>
+			<row1>	0.082180 0.772084 1.843130	</row1>
+			<row2>	-0.084730 1.125731 -0.467789	</row2>
+			<row3>	99.484512 3.966668 56.239052	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-0.769730 0.013753 1.223831	</row0>
+			<row1>	1.466047 1.010596 0.910712	</row1>
+			<row2>	-0.517368 1.054442 -0.337246	</row2>
+			<row3>	53.689358 3.127672 68.188210	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-1.399499 -0.212642 -0.294331	</row0>
+			<row1>	-0.502263 1.121766 1.577772	</row1>
+			<row2>	-0.002254 0.995590 -0.708562	</row2>
+			<row3>	66.060654 5.759970 60.997475	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-1.322806 0.110024 0.573176	</row0>
+			<row1>	0.786153 0.782885 1.664046	</row1>
+			<row2>	-0.112260 1.120632 -0.474189	</row2>
+			<row3>	95.099594 5.304458 56.753944	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-0.550838 0.031969 1.336406	</row0>
+			<row1>	1.631500 0.957217 0.649569	</row1>
+			<row2>	-0.531816 1.072595 -0.244860	</row2>
+			<row3>	48.264633 3.298724 81.377548	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-1.434808 -0.135346 -0.116019	</row0>
+			<row1>	-0.231280 0.961845 1.738206	</row1>
+			<row2>	-0.052262 1.065274 -0.596430	</row2>
+			<row3>	70.709297 6.792342 61.940628	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-0.433633 0.031969 1.378899	</row0>
+			<row1>	1.681404 0.957217 0.506570	</row1>
+			<row2>	-0.550937 1.072594 -0.198123	</row2>
+			<row3>	46.191910 4.378817 85.920143	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-1.059478 0.037733 0.983120	</row0>
+			<row1>	1.210115 0.964421 1.267086	</row1>
+			<row2>	-0.380472 1.070055 -0.451090	</row2>
+			<row3>	56.954288 3.832080 63.793934	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-0.069402 0.069160 1.442502	</row0>
+			<row1>	1.772620 0.925275 0.040922	</row1>
+			<row2>	-0.562840 1.081762 -0.078942	</row2>
+			<row3>	43.676300 5.239414 95.383087	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-1.094512 0.000000 0.148287	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.134436 0.000000 -0.990917	</row2>
+			<row3>	96.388222 0.492178 75.299477	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-1.068905 0.000000 0.144817	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.134436 0.000000 -0.990918	</row2>
+			<row3>	94.992393 0.492179 75.497292	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-1.094511 0.000000 0.148287	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.134436 0.000000 -0.990917	</row2>
+			<row3>	88.516708 0.492181 76.431023	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-1.068904 0.000000 0.144817	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.134436 0.000000 -0.990918	</row2>
+			<row3>	87.120880 0.492181 76.628838	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-1.068904 0.000000 0.144817	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.134436 0.000000 -0.990918	</row2>
+			<row3>	85.765350 0.492181 76.835258	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-1.068904 0.000000 0.144817	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.134436 0.000000 -0.990918	</row2>
+			<row3>	84.407410 0.492182 77.039391	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.144817 0.000000 1.068903	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.990917 0.000000 0.134436	</row2>
+			<row3>	96.642761 0.492180 71.725677	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.144817 0.000000 1.068903	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.990917 0.000000 0.134436	</row2>
+			<row3>	96.849174 0.492180 73.081215	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.144817 0.000000 1.068903	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.990917 0.000000 0.134436	</row2>
+			<row3>	97.053314 0.492181 74.439156	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.140373 0.000000 1.036095	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.990916 0.000000 0.134436	</row2>
+			<row3>	96.452393 0.492180 70.384926	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-1.094511 0.000000 0.148287	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.134436 0.000000 -0.990917	</row2>
+			<row3>	95.588432 0.492181 69.881935	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.995728 0.000000 -0.092313	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.092313 0.000000 0.995728	</row2>
+			<row3>	96.194908 0.491747 75.496910	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.995728 0.000000 -0.092313	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.092313 0.000000 0.995728	</row2>
+			<row3>	96.234459 0.491747 75.810562	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl5	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.937906 0.000000 -0.346880	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	0.346880 0.000000 0.937906	</row2>
+			<row3>	95.478806 0.491747 75.721939	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl4	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	-0.092312 0.000000 -0.995726	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	0.995726 0.000000 -0.092312	</row2>
+			<row3>	97.392441 0.491747 74.919800	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl4	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.936199 0.000000 -0.351455	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.351455 0.000000 0.936199	</row2>
+			<row3>	97.249016 0.491746 75.577095	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.995261 0.000000 -0.097174	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.097174 0.000000 0.995261	</row2>
+			<row3>	97.445488 0.491744 75.553360	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	0.995261 0.000000 -0.097174	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.097174 0.000000 0.995261	</row2>
+			<row3>	96.746841 0.491746 75.618828	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	-0.258816 0.000000 -0.965915	</row0>
+			<row1>	0.000000 0.999991 0.000000	</row1>
+			<row2>	0.965915 0.000000 -0.258816	</row2>
+			<row3>	97.486488 0.491747 77.409569	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	-0.258816 0.000000 -0.965915	</row0>
+			<row1>	0.000000 0.999991 0.000000	</row1>
+			<row2>	0.965915 0.000000 -0.258816	</row2>
+			<row3>	97.519173 0.491747 77.007454	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP235_DJ/LBP235_DJ.model	</resource>
+		<transform>
+			<row0>	0.965924 0.000000 -0.258818	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.258818 0.000000 0.965924	</row2>
+			<row3>	89.553291 0.492181 75.824158	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP235_DJ/LBP235_DJ.model	</resource>
+		<transform>
+			<row0>	0.965923 0.000000 -0.258818	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.258818 0.000000 0.965923	</row2>
+			<row3>	94.316910 0.491746 75.919266	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP235_DJ/LBP235_DJ.model	</resource>
+		<transform>
+			<row0>	0.866023 0.000000 -0.499998	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.499998 0.000000 0.866023	</row2>
+			<row3>	96.739235 0.491746 70.289452	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.102991 0.000000 -0.994676	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.994676 0.000000 -0.102991	</row2>
+			<row3>	97.410469 0.491747 71.904739	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.356923 0.000000 -0.934128	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.934128 0.000000 -0.356923	</row2>
+			<row3>	97.365784 0.491747 71.402786	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.102992 0.000000 -0.994677	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.994677 0.000000 -0.102992	</row2>
+			<row3>	97.340897 0.491746 71.206451	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.102992 0.000000 -0.994677	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.994677 0.000000 -0.102992	</row2>
+			<row3>	96.954315 0.491746 71.699318	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP239_DJ/LBP239_DJ.model	</resource>
+		<transform>
+			<row0>	-0.356923 0.000000 -0.934128	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.934128 0.000000 -0.356923	</row2>
+			<row3>	96.979202 0.491747 71.895653	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	0.258816 0.000000 0.965915	</row0>
+			<row1>	0.000000 0.999991 0.000000	</row1>
+			<row2>	-0.965915 0.000000 0.258816	</row2>
+			<row3>	97.301880 0.491747 73.078026	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP220_DJ/LBP220_DJ.model	</resource>
+		<transform>
+			<row0>	0.889351 0.000000 -0.728950	</row0>
+			<row1>	0.000000 1.149918 0.000000	</row1>
+			<row2>	0.728950 0.000000 0.889351	</row2>
+			<row3>	45.554195 5.726254 61.871170	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-0.220427 0.000000 1.055908	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.978931 0.000000 -0.204170	</row2>
+			<row3>	82.165321 0.493850 71.411324	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-0.220427 0.000000 1.055908	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.978931 0.000000 -0.204170	</row2>
+			<row3>	82.438011 0.493849 70.050484	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-0.220427 0.000000 1.055908	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.978931 0.000000 -0.204170	</row2>
+			<row3>	82.699043 0.493849 68.702339	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-0.220427 0.000000 1.055907	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.978931 0.000000 -0.204170	</row2>
+			<row3>	81.147614 0.493850 76.687828	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-0.220427 0.000000 1.055907	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.978931 0.000000 -0.204170	</row2>
+			<row3>	81.420303 0.493849 75.326973	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-0.220427 0.000000 1.055907	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.978931 0.000000 -0.204170	</row2>
+			<row3>	81.681335 0.493849 73.978828	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	1.055906 0.000000 0.220427	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.204170 0.000000 0.978930	</row2>
+			<row3>	82.092178 0.493851 67.797577	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	1.055906 0.000000 0.220427	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.204170 0.000000 0.978930	</row2>
+			<row3>	80.731323 0.493850 67.524887	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	1.055906 0.000000 0.220427	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.204170 0.000000 0.978930	</row2>
+			<row3>	79.383171 0.493850 67.263855	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	1.055906 0.000000 0.220427	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.204170 0.000000 0.978930	</row2>
+			<row3>	77.983765 0.493851 66.991928	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	1.055906 0.000000 0.220427	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.204170 0.000000 0.978930	</row2>
+			<row3>	76.622910 0.493850 66.719223	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	1.055906 0.000000 0.220427	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.204170 0.000000 0.978930	</row2>
+			<row3>	75.274757 0.493850 66.458191	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	1.067169 0.000000 -0.157078	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.145803 0.000000 0.989308	</row2>
+			<row3>	90.947655 0.492183 70.372276	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	1.067169 0.000000 -0.157078	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.145803 0.000000 0.989308	</row2>
+			<row3>	89.576218 0.492182 70.585411	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	1.067169 0.000000 -0.157078	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.145803 0.000000 0.989308	</row2>
+			<row3>	88.220718 0.492182 70.805138	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP201_DJ/LBP201_DJ.model	</resource>
+		<transform>
+			<row0>	0.307111 0.000000 -0.951661	</row0>
+			<row1>	0.000002 0.999990 0.000001	</row1>
+			<row2>	0.951661 -0.000002 0.307111	</row2>
+			<row3>	36.508991 6.806093 86.024391	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/nature/rock/LNR181_Dock_Japan/LNR181_Dock_Japan.model	</resource>
+		<transform>
+			<row0>	-4.924592 0.000000 2.843217	</row0>
+			<row1>	0.000000 6.221100 0.000000	</row1>
+			<row2>	-2.843216 0.000000 -4.924597	</row2>
+			<row3>	21.323906 5.631430 13.621971	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP205_DJ/LBP205_DJ.model	</resource>
+		<transform>
+			<row0>	1.320288 0.000003 0.265075	</row0>
+			<row1>	-0.000003 1.346636 -0.000001	</row1>
+			<row2>	-0.265075 0.000000 1.320288	</row2>
+			<row3>	34.412018 8.731164 98.652504	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.499999 0.000000 0.866024	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.866024 0.000000 0.499999	</row2>
+			<row3>	85.598793 0.494277 96.724091	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-0.977926 0.000000 -0.208926	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.208927 0.000000 -0.977927	</row2>
+			<row3>	80.273743 0.491743 77.262115	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-0.977926 0.000000 -0.208926	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.208927 0.000000 -0.977927	</row2>
+			<row3>	79.026955 0.491743 77.004585	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-0.977926 0.000000 -0.208926	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.208927 0.000000 -0.977927	</row2>
+			<row3>	77.779366 0.491744 76.761108	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.215388 0.000000 -1.056942	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	0.979891 0.000000 0.199499	</row2>
+			<row3>	65.579422 0.493851 72.083427	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.215388 0.000000 -1.056942	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	0.979891 0.000000 0.199499	</row2>
+			<row3>	65.313217 0.493850 73.445564	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-1.056941 0.000000 -0.215388	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	0.199499 0.000000 -0.979890	</row2>
+			<row3>	65.916809 0.493850 74.354134	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-1.056941 0.000000 -0.215388	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	0.199499 0.000000 -0.979890	</row2>
+			<row3>	67.278946 0.493849 74.620331	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-1.056941 0.000000 -0.215388	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	0.199499 0.000000 -0.979890	</row2>
+			<row3>	68.631371 0.493851 74.881638	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-1.056941 0.000000 -0.215388	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	0.199499 0.000000 -0.979890	</row2>
+			<row3>	69.993507 0.493850 75.147835	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-0.215388 0.000000 1.056940	</row0>
+			<row1>	0.000000 0.999991 0.000000	</row1>
+			<row2>	-0.979889 0.000000 -0.199499	</row2>
+			<row3>	65.981476 0.493852 70.776436	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	-0.215388 0.000000 1.056940	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	-0.979889 0.000000 -0.199499	</row2>
+			<row3>	66.247665 0.493851 69.414299	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	1.067169 0.000000 -0.157078	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.145803 0.000000 0.989308	</row2>
+			<row3>	83.539917 0.492181 71.465179	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	1.067169 0.000000 -0.157078	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.145803 0.000000 0.989308	</row2>
+			<row3>	84.895416 0.492181 71.245453	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.144028 0.000000 1.069007	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.991015 0.000000 0.133706	</row2>
+			<row3>	83.040367 0.492181 72.343132	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP241_DJ/LBP241_DJ.model	</resource>
+		<transform>
+			<row0>	0.144028 0.000000 1.069007	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.991015 0.000000 0.133706	</row2>
+			<row3>	83.243523 0.492181 73.701210	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP232_DJ/LBP232_DJ.model	</resource>
+		<animation>
+			<name>	NL232_DJ	</name>
+			<frameRateMultiplier>	0.110000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	-1.348559 0.000000 0.070116	</row0>
+			<row1>	0.000000 1.350380 0.000000	</row1>
+			<row2>	-0.070116 0.000000 -1.348559	</row2>
+			<row3>	85.136627 0.547443 97.019531	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	-0.999998 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.000000 0.000000 -0.999998	</row2>
+			<row3>	84.618225 0.195934 97.745697	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl3	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	-0.999999 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	0.000000 0.000000 -0.999999	</row2>
+			<row3>	78.570503 0.195936 97.951576	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl7	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP235_DJ/LBP235_DJ.model	</resource>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	83.795670 0.195933 97.823250	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.995728 0.000000 -0.092313	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.092313 0.000000 0.995728	</row2>
+			<row3>	88.245125 0.195943 82.025787	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl5	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.995728 0.000000 -0.092313	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	0.092313 0.000000 0.995728	</row2>
+			<row3>	89.214554 0.195942 81.947533	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.993494 0.000000 -0.113853	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.113853 0.000000 0.993494	</row2>
+			<row3>	94.735992 0.195942 79.444130	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.937906 0.000000 -0.346880	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	0.346880 0.000000 0.937906	</row2>
+			<row3>	94.637421 0.425980 79.500084	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl4	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.985690 0.000000 0.168546	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.168546 0.000000 0.985690	</row2>
+			<row3>	95.704727 0.195942 79.309357	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl6	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP232_DJ/LBP232_DJ.model	</resource>
+		<animation>
+			<name>	NL232_DJ	</name>
+			<frameRateMultiplier>	0.200000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	-1.348914 0.000000 0.054074	</row0>
+			<row1>	0.000000 1.349999 0.000001	</row1>
+			<row2>	-0.054074 0.000001 -1.348915	</row2>
+			<row3>	86.260025 0.554949 89.382317	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.937907 0.000000 -0.346881	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.346881 0.000000 0.937907	</row2>
+			<row3>	90.516624 0.491746 79.750702	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	78.414795 0.494277 96.507874	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	78.097092 0.494277 96.526001	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	77.475800 0.494277 96.534698	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl5	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	77.159836 0.494277 96.545135	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.999999	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.999999 0.000000 0.000000	</row2>
+			<row3>	76.536423 0.494277 96.514694	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
+		<animation>
+			<name>	NL225_DJ	</name>
+			<frameRateMultiplier>	0.250000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	-0.174430 0.000000 0.756439	</row0>
+			<row1>	0.000000 0.776289 0.000000	</row1>
+			<row2>	-0.756439 0.000000 -0.174430	</row2>
+			<row3>	57.907021 14.222971 16.949089	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
+		<animation>
+			<name>	NL225_DJ	</name>
+			<frameRateMultiplier>	0.400000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	-0.131447 0.000000 0.765080	</row0>
+			<row1>	0.000000 0.776290 0.000000	</row1>
+			<row2>	-0.765080 0.000000 -0.131447	</row2>
+			<row3>	40.871189 22.073313 10.644974	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-0.032158 -0.000001 0.999478	</row0>
+			<row1>	0.000002 0.999992 0.000000	</row1>
+			<row2>	-0.999478 0.000002 -0.032158	</row2>
+			<row3>	71.749504 1.515347 87.143684	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-0.032158 -0.000001 0.999476	</row0>
+			<row1>	0.000002 0.999992 0.000000	</row1>
+			<row2>	-0.999476 0.000002 -0.032158	</row2>
+			<row3>	71.813965 1.509420 85.521446	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	0.032158 -0.000001 -0.999474	</row0>
+			<row1>	-0.000002 0.999991 -0.000001	</row1>
+			<row2>	0.999474 0.000002 0.032158	</row2>
+			<row3>	72.254547 1.509420 83.852562	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	5.390796 0.000000 0.298813	</row0>
+			<row1>	-0.298813 0.000630 5.390800	</row1>
+			<row2>	-0.000206 -0.903283 0.003762	</row2>
+			<row3>	70.880211 0.287251 83.970963	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_04.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_04_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<model>
+		<resource>	content/location/building/port/LBP214_DJ/LBP214_DJ.model	</resource>
+		<transform>
+			<row0>	-0.998029 0.000002 0.062671	</row0>
+			<row1>	0.000002 0.999994 0.000000	</row1>
+			<row2>	-0.062671 0.000001 -0.998029	</row2>
+			<row3>	68.498436 0.466877 81.268997	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP213_DJ/LBP213_DJ.model	</resource>
+		<transform>
+			<row0>	-0.998765 0.000002 0.049592	</row0>
+			<row1>	0.000002 0.999994 0.000000	</row1>
+			<row2>	-0.049592 0.000001 -0.998765	</row2>
+			<row3>	68.852394 0.466876 79.694687	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	5.162745 -0.000060 0.053524	</row0>
+			<row1>	-0.038540 0.000888 0.858486	</row1>
+			<row2>	-0.000014 -0.416256 0.000196	</row2>
+			<row3>	71.272789 0.491748 88.897964	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_03.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_03_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_03_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	5.390790 0.000000 0.227008	</row0>
+			<row1>	-0.298813 0.000630 4.095391	</row1>
+			<row2>	-0.000206 -0.903282 0.002858	</row2>
+			<row3>	69.364479 0.491747 86.864159	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_04.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_04_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	5.390788 0.000000 0.227008	</row0>
+			<row1>	-0.298813 0.000630 4.095388	</row1>
+			<row2>	-0.000206 -0.903282 0.002858	</row2>
+			<row3>	66.085678 0.491747 86.611824	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_04.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_04_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-5.370470 0.000000 -0.519682	</row0>
+			<row1>	0.520971 0.000630 -4.073082	</row1>
+			<row2>	0.000361 -0.903280 -0.002843	</row2>
+			<row3>	62.656200 0.491745 86.481148	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_04.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_04_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-5.370468 0.000000 -0.519682	</row0>
+			<row1>	0.520971 0.000630 -4.073081	</row1>
+			<row2>	0.000361 -0.903280 -0.002843	</row2>
+			<row3>	59.063805 0.491747 86.414421	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_04.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_04_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	19.997438 0.000000 -0.104111	</row0>
+			<row1>	-2.263092 0.000630 19.637926	</row1>
+			<row2>	-0.001571 -0.903278 0.013704	</row2>
+			<row3>	80.896515 0.089610 59.375259	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_04.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_04_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	12.679407 0.000000 -15.464122	</row0>
+			<row1>	13.676882 0.000630 14.272728	</row1>
+			<row2>	0.009549 -0.903276 0.009954	</row2>
+			<row3>	44.964695 0.117849 83.929153	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_04.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_04_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	12.679421 0.000000 -15.464136	</row0>
+			<row1>	13.676896 0.000630 14.272741	</row1>
+			<row2>	0.009549 -0.903277 0.009954	</row2>
+			<row3>	51.833366 0.141495 72.766609	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_04.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_04_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	19.997423 0.000000 -0.104111	</row0>
+			<row1>	-2.263090 0.000630 19.637911	</row1>
+			<row2>	-0.001571 -0.903278 0.013704	</row2>
+			<row3>	62.312397 0.096390 62.628632	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_04.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_04_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<model>
+		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
+		<animation>
+			<name>	NL225_DJ	</name>
+			<frameRateMultiplier>	0.410000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	0.107049 0.000000 0.768872	</row0>
+			<row1>	0.000000 0.776288 0.000000	</row1>
+			<row2>	-0.768872 0.000000 0.107049	</row2>
+			<row3>	30.319778 22.913439 24.255119	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
+		<animation>
+			<name>	NL225_DJ	</name>
+			<frameRateMultiplier>	0.300000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	-0.137197 0.000000 0.594976	</row0>
+			<row1>	0.000000 0.610588 0.000000	</row1>
+			<row2>	-0.594976 0.000000 -0.137197	</row2>
+			<row3>	86.391228 12.297831 36.390224	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-11.655498 0.000000 -16.249737	</row0>
+			<row1>	17.326193 0.000630 -9.516776	</row1>
+			<row2>	0.012086 -0.903275 -0.006647	</row2>
+			<row3>	45.090633 0.139263 98.582100	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_04.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_04_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	20.728441 0.000000 -2.307993	</row0>
+			<row1>	1.266306 0.000875 18.181583	</row1>
+			<row2>	0.000894 -1.254458 0.012687	</row2>
+			<row3>	93.428558 -0.088603 58.956509	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_04.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_04_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<model>
+		<resource>	content/location/building/port/LBP207_DJ/LBP207_DJ.model	</resource>
+		<transform>
+			<row0>	1.058677 0.000002 -0.661479	</row0>
+			<row1>	-0.000001 1.248344 0.000002	</row1>
+			<row2>	0.661479 -0.000001 1.058677	</row2>
+			<row3>	51.522820 4.767005 60.808525	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	0.401577 0.009501 -1.388906	</row0>
+			<row1>	1.701607 0.925313 0.498320	</row1>
+			<row2>	0.545099 -1.083301 0.150193	</row2>
+			<row3>	44.567886 4.514261 90.530861	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP207_DJ/LBP207_DJ.model	</resource>
+		<transform>
+			<row0>	-1.301264 0.000003 -0.300473	</row0>
+			<row1>	0.000003 1.335508 -0.000001	</row1>
+			<row2>	0.300473 -0.000001 -1.301264	</row2>
+			<row3>	39.588795 5.998121 79.676651	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP217_DJ/LBP217_DJ.model	</resource>
+		<transform>
+			<row0>	-0.246577 0.000000 2.041078	</row0>
+			<row1>	0.000000 2.055910 0.000000	</row1>
+			<row2>	-2.041078 0.000000 -0.246577	</row2>
+			<row3>	40.142944 5.725634 74.198685	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.999163 0.000000 0.040774	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.040774 0.000000 0.999163	</row2>
+			<row3>	78.335075 0.195942 85.274895	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl7	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	0.559784 -0.029237 -1.332746	</row0>
+			<row1>	1.599425 1.009849 0.649643	</row1>
+			<row2>	0.560724 -1.054482 0.258648	</row2>
+			<row3>	49.987450 2.699936 77.334755	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-0.409909 0.007147 1.386472	</row0>
+			<row1>	1.663760 0.997457 0.486748	</row1>
+			<row2>	-0.582953 1.059127 -0.177808	</row2>
+			<row3>	33.578629 10.363335 76.898079	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	0.037516 -0.008317 -1.445311	</row0>
+			<row1>	1.772365 0.925764 0.040679	</row1>
+			<row2>	0.565286 -1.083159 0.020904	</row2>
+			<row3>	29.527954 13.194078 96.646156	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP207_DJ/LBP207_DJ.model	</resource>
+		<transform>
+			<row0>	-1.301263 0.000003 -0.300473	</row0>
+			<row1>	0.000003 1.335507 -0.000001	</row1>
+			<row2>	0.300473 -0.000001 -1.301263	</row2>
+			<row3>	33.961525 7.622907 66.692764	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-8.115951 -2.437650 -0.593375	</row0>
+			<row1>	-0.713313 6.435266 -3.810762	</row1>
+			<row2>	0.595512 -1.357830 -2.491543	</row2>
+			<row3>	64.384338 1.846943 61.162663	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_05.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_05_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-1.443377 -0.048594 0.068958	</row0>
+			<row1>	0.051672 0.956604 1.755629	</row1>
+			<row2>	-0.063930 1.072362 -0.582425	</row2>
+			<row3>	74.793839 7.188445 62.114727	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-1.316678 0.168181 0.573177	</row0>
+			<row1>	0.819874 0.747498 1.664046	</row1>
+			<row2>	-0.062792 1.124491 -0.474189	</row2>
+			<row3>	90.530251 6.028944 58.066902	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-3.556348 -0.266863 11.283493	</row0>
+			<row1>	-2.773498 8.339137 -1.802722	</row1>
+			<row2>	-2.802243 -1.078278 -0.914708	</row2>
+			<row3>	51.642170 3.339980 75.029587	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	7	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_05.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_05_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-6.813292 -0.019276 3.278421	</row0>
+			<row1>	-0.264473 7.050496 -2.581430	</row1>
+			<row2>	-1.187166 -0.907192 -2.484696	</row2>
+			<row3>	95.159348 2.142247 56.868740	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	3	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_05.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_05_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-1.119048 0.000000 0.178895	</row0>
+			<row1>	0.000000 1.133257 0.000000	</row1>
+			<row2>	-0.178895 0.000000 -1.119048	</row2>
+			<row3>	92.973404 1.940618 72.705765	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	0.186853 -1.515037 12.249908	</row0>
+			<row1>	-4.228061 7.117502 0.406478	</row1>
+			<row2>	-2.539640 -1.457731 0.197872	</row2>
+			<row3>	43.866764 3.351451 96.407791	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	7	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_05.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_05_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	-0.965918 0.000000 -0.258818	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.258818 0.000000 -0.965918	</row2>
+			<row3>	75.336525 0.491747 97.769478	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP228_DJ/LBP228_DJ.model	</resource>
+		<transform>
+			<row0>	0.965924 0.000000 -0.258818	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.258818 0.000000 0.965924	</row2>
+			<row3>	73.234032 0.491745 98.184212	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl7	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	-0.965916 0.000000 -0.258817	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	0.258817 0.000000 -0.965916	</row2>
+			<row3>	76.163948 0.491746 85.720879	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl2	</tint>
+		</dye>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</resource>
+		<transform>
+			<row0>	0.965918 0.000000 0.258818	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.258818 0.000000 0.965918	</row2>
+			<row3>	75.547005 0.491746 87.591652	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP219_DJ/LBP219_DJ.model	</resource>
+		<transform>
+			<row0>	-0.652162 0.000000 0.103045	</row0>
+			<row1>	0.000000 0.903906 0.000000	</row1>
+			<row2>	-0.103045 0.000000 -0.652162	</row2>
+			<row3>	84.791214 0.447882 73.421890	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP217_DJ/LBP217_DJ.model	</resource>
+		<transform>
+			<row0>	-1.071425 0.000000 0.152709	</row0>
+			<row1>	0.000000 1.066588 0.000000	</row1>
+			<row2>	-0.152709 0.000000 -1.071425	</row2>
+			<row3>	85.150360 0.479852 75.328232	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<dye>
+			<name>	PBS	</name>
+			<tint>	PBS_cl1	</tint>
+		</dye>
+	</model>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-2.994769 -1.118722 9.986879	</row0>
+			<row1>	-4.257737 6.941025 -1.534314	</row1>
+			<row2>	-2.295381 -1.546593 -0.860896	</row2>
+			<row3>	45.278301 3.219887 84.635773	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	7	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_05.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_05_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<model>
+		<resource>	content/location/building/port/LBP208_DJ/LBP208_DJ.model	</resource>
+		<transform>
+			<row0>	-0.892382 0.000002 -0.451273	</row0>
+			<row1>	0.000002 0.999994 0.000000	</row1>
+			<row2>	0.451273 -0.000001 -0.892382	</row2>
+			<row3>	66.287445 0.478360 96.556206	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
+		<animation>
+			<name>	NL225_DJ	</name>
+			<frameRateMultiplier>	0.400000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	-0.137197 0.000000 0.594974	</row0>
+			<row1>	0.000000 0.610587 0.000000	</row1>
+			<row2>	-0.594974 0.000000 -0.137197	</row2>
+			<row3>	67.026199 16.036404 39.656952	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
+		<animation>
+			<name>	NL225_DJ	</name>
+			<frameRateMultiplier>	0.500000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	-0.118507 0.000000 0.767190	</row0>
+			<row1>	0.000000 0.776289 0.000000	</row1>
+			<row2>	-0.767190 0.000000 -0.118507	</row2>
+			<row3>	24.128075 27.605677 1.114265	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-8.244764 -1.472479 0.888203	</row0>
+			<row1>	-0.641688 6.559844 -3.605595	</row1>
+			<row2>	-0.027656 -1.359568 -2.560661	</row2>
+			<row3>	72.438133 3.418020 62.540913	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_05.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_05_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-6.907131 -0.132868 3.073002	</row0>
+			<row1>	-0.771859 6.512619 -3.665147	</row1>
+			<row2>	-1.008262 -1.384932 -2.339115	</row2>
+			<row3>	87.943985 3.058467 58.899570	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	3	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_05.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_05_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<staticDecal>
+		<version>	2	</version>
+		<transform>
+			<row0>	-8.102480 -0.669942 2.462645	</row0>
+			<row1>	-0.581965 6.786730 -3.169432	</row1>
+			<row2>	-0.670959 -1.200596 -2.552367	</row2>
+			<row3>	80.509529 3.458235 61.409603	</row3>
+		</transform>
+		<priority>	0	</priority>
+		<type>	1	</type>
+		<influence>	15	</influence>
+		<texture0>	maps/decals/Dock_Japan/LD_DJ_g_05.tga	</texture0>
+		<texture1>	maps/decals/Dock_Japan/LD_DJ_g_05_n.tga	</texture1>
+		<texture2>	maps/decals/Dock_Japan/LD_DJ_g_04_mg.tga	</texture2>
+	</staticDecal>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-1.350958 0.063949 0.511154	</row0>
+			<row1>	0.684308 0.776246 1.711478	</row1>
+			<row2>	-0.121426 1.124900 -0.461653	</row2>
+			<row3>	82.600479 7.183674 60.813301	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-1.410150 0.032520 0.317613	</row0>
+			<row1>	0.415489 0.861451 1.756492	</row1>
+			<row2>	-0.091487 1.102486 -0.519061	</row2>
+			<row3>	79.132133 7.409412 61.505711	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	1.374733 -0.104162 -0.435563	</row0>
+			<row1>	0.608933 0.792333 1.732454	</row1>
+			<row2>	0.069582 -1.118549 0.487110	</row2>
+			<row3>	86.721298 6.287933 59.429741	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP202_DJ/LBP202_DJ.model	</resource>
+		<transform>
+			<row0>	-0.386818 0.020944 1.392951	</row0>
+			<row1>	1.734922 0.877732 0.468586	</row1>
+			<row2>	-0.512530 1.097855 -0.158834	</row2>
+			<row3>	32.212265 11.296088 86.219780	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP207_DJ/LBP207_DJ.model	</resource>
+		<transform>
+			<row0>	-0.850549 0.000002 -0.525880	</row0>
+			<row1>	0.000002 0.999994 -0.000000	</row1>
+			<row2>	0.525880 -0.000001 -0.850549	</row2>
+			<row3>	68.501053 0.476487 99.279694	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP200_DJ/LBP200_DJ.model	</resource>
+		<transform>
+			<row0>	0.032491 0.000001 -0.999465	</row0>
+			<row1>	0.000002 0.999992 0.000000	</row1>
+			<row2>	0.999465 -0.000002 0.032491	</row2>
+			<row3>	72.280663 0.479266 85.734726	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP222_DJ/LBP222_DJ.model	</resource>
+		<transform>
+			<row0>	0.047487 0.000000 1.305355	</row0>
+			<row1>	-0.000000 1.306219 -0.000000	</row1>
+			<row2>	-1.305355 -0.000000 0.047487	</row2>
+			<row3>	60.679546 0.469714 78.893890	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP201_DJ/LBP201_DJ.model	</resource>
+		<transform>
+			<row0>	0.028252 0.000000 -0.999590	</row0>
+			<row1>	0.000002 0.999991 0.000000	</row1>
+			<row2>	0.999590 -0.000002 0.028252	</row2>
+			<row3>	70.294327 0.454474 92.725327	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<UserDataObject>
+		<type>	WayPoint	</type>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	74.629791 0.491735 83.453339	</row3>
+		</transform>
+		<guid>	44C3F709.4E4E3140.63E73B9C.DB09F887	</guid>
+		<properties>
+			<next>
+				<item>
+					<guid>	768DFEC8.47EBC402.449B3CA0.646676F2	</guid>
+					<chunkId>	ffffffffo	</chunkId>
+				</item>
+			</next>
+			<speed>	5.000000	</speed>
+		</properties>
+		<backLinks>
+			<link>
+				<guid>	27BC77A8.408B597A.8B33A7A1.720574BB	</guid>
+				<chunkId>	ffff0000o	</chunkId>
+			</link>
+		</backLinks>
+	</UserDataObject>
+	<UserDataObject>
+		<type>	WayPoint	</type>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	98.589539 0.491732 76.007538	</row3>
+		</transform>
+		<guid>	8A17C080.405F3C04.DB8D3A9C.31D37CD2	</guid>
+		<properties>
+			<next>
+				<item>
+					<guid>	FB59408C.4FC2B12B.DB6CC394.0D85F05E	</guid>
+					<chunkId>	ffffffffo	</chunkId>
+				</item>
+			</next>
+			<speed>	5.000000	</speed>
+		</properties>
+		<backLinks>
+			<link>
+				<guid>	CCD3DD87.41330DF8.0EA02FB6.799632D2	</guid>
+				<chunkId>	ffffffffo	</chunkId>
+			</link>
+		</backLinks>
+	</UserDataObject>
+	<UserDataObject>
+		<type>	WayPoint	</type>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	97.416428 0.491730 68.804634	</row3>
+		</transform>
+		<guid>	FE6C870D.4915E3B4.C3C7CABA.1B0A8AD3	</guid>
+		<properties>
+			<next>
+				<item>
+					<guid>	64A703F7.422E8480.B71BF2AB.64DF94A0	</guid>
+					<chunkId>	ffffffffo	</chunkId>
+				</item>
+			</next>
+			<speed>	5.000000	</speed>
+		</properties>
+		<backLinks>
+			<link>
+				<guid>	FB59408C.4FC2B12B.DB6CC394.0D85F05E	</guid>
+				<chunkId>	ffffffffo	</chunkId>
+			</link>
+		</backLinks>
+	</UserDataObject>
+	<UserDataObject>
+		<type>	WayPoint	</type>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	91.828407 0.491730 68.804710	</row3>
+		</transform>
+		<guid>	64A703F7.422E8480.B71BF2AB.64DF94A0	</guid>
+		<properties>
+			<speed>	5.000000	</speed>
+		</properties>
+		<backLinks>
+			<link>
+				<guid>	FE6C870D.4915E3B4.C3C7CABA.1B0A8AD3	</guid>
+				<chunkId>	ffffffffo	</chunkId>
+			</link>
+		</backLinks>
+	</UserDataObject>
+	<UserDataObject>
+		<type>	WayPoint	</type>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	98.083107 0.491731 72.997383	</row3>
+		</transform>
+		<guid>	FB59408C.4FC2B12B.DB6CC394.0D85F05E	</guid>
+		<properties>
+			<next>
+				<item>
+					<guid>	FE6C870D.4915E3B4.C3C7CABA.1B0A8AD3	</guid>
+					<chunkId>	ffffffffo	</chunkId>
+				</item>
+			</next>
+			<speed>	5.000000	</speed>
+		</properties>
+		<backLinks>
+			<link>
+				<guid>	8A17C080.405F3C04.DB8D3A9C.31D37CD2	</guid>
+				<chunkId>	ffffffffo	</chunkId>
+			</link>
+		</backLinks>
+	</UserDataObject>
+	<UserDataObject>
+		<type>	WayPoint	</type>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	95.481667 0.491733 76.486870	</row3>
+		</transform>
+		<guid>	CCD3DD87.41330DF8.0EA02FB6.799632D2	</guid>
+		<properties>
+			<next>
+				<item>
+					<guid>	8A17C080.405F3C04.DB8D3A9C.31D37CD2	</guid>
+					<chunkId>	ffffffffo	</chunkId>
+				</item>
+			</next>
+			<speed>	5.000000	</speed>
+		</properties>
+		<backLinks>
+			<link>
+				<guid>	7E657F97.4BBA70A5.0273B193.29EAFFE1	</guid>
+				<chunkId>	ffffffffo	</chunkId>
+			</link>
+		</backLinks>
+	</UserDataObject>
+	<UserDataObject>
+		<type>	WayPoint	</type>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	74.823685 0.491735 78.008453	</row3>
+		</transform>
+		<guid>	768DFEC8.47EBC402.449B3CA0.646676F2	</guid>
+		<properties>
+			<next>
+				<item>
+					<guid>	9175844F.419BA13F.66D1FF8A.B12FB1A1	</guid>
+					<chunkId>	ffffffffo	</chunkId>
+				</item>
+			</next>
+			<speed>	5.000000	</speed>
+		</properties>
+		<backLinks>
+			<link>
+				<guid>	44C3F709.4E4E3140.63E73B9C.DB09F887	</guid>
+				<chunkId>	ffffffffo	</chunkId>
+			</link>
+		</backLinks>
+	</UserDataObject>
+	<UserDataObject>
+		<type>	WayPoint	</type>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	77.727615 0.491734 77.728691	</row3>
+		</transform>
+		<guid>	9175844F.419BA13F.66D1FF8A.B12FB1A1	</guid>
+		<properties>
+			<speed>	5.000000	</speed>
+		</properties>
+		<backLinks>
+			<link>
+				<guid>	768DFEC8.47EBC402.449B3CA0.646676F2	</guid>
+				<chunkId>	ffffffffo	</chunkId>
+			</link>
+		</backLinks>
+	</UserDataObject>
+	<UserDataObject>
+		<type>	WayPoint	</type>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	79.218483 0.491733 77.765572	</row3>
+		</transform>
+		<guid>	7E657F97.4BBA70A5.0273B193.29EAFFE1	</guid>
+		<properties>
+			<next>
+				<item>
+					<guid>	CCD3DD87.41330DF8.0EA02FB6.799632D2	</guid>
+					<chunkId>	ffffffffo	</chunkId>
+				</item>
+			</next>
+			<speed>	1.000000	</speed>
+			<model>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</model>
+			<modelCount>	2	</modelCount>
+			<delaySecMin>	3.000000	</delaySecMin>
+			<delaySecMax>	9.000000	</delaySecMax>
+		</properties>
+		<backLinks />
+	</UserDataObject>
+	<UserDataObject>
+		<type>	WayPoint	</type>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	75.359741 0.491742 78.211021	</row3>
+		</transform>
+		<guid>	56E60511.40A1E9F2.0E8175BD.48A8CE76	</guid>
+		<properties>
+			<next>
+				<item>
+					<guid>	CA38BB6D.4C297BB8.838565BE.464AE1CC	</guid>
+					<chunkId>	ffffffffo	</chunkId>
+				</item>
+			</next>
+			<speed>	1.000000	</speed>
+			<modelCount>	9	</modelCount>
+			<delaySecMin>	3.000000	</delaySecMin>
+			<delaySecMax>	15.000000	</delaySecMax>
+		</properties>
+		<backLinks>
+			<link>
+				<guid>	3D048960.4D951DF5.443D39A1.CCEA09AC	</guid>
+				<chunkId>	ffffffffo	</chunkId>
+			</link>
+		</backLinks>
+	</UserDataObject>
+	<UserDataObject>
+		<type>	WayPoint	</type>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	75.267593 0.491742 84.134552	</row3>
+		</transform>
+		<guid>	CA38BB6D.4C297BB8.838565BE.464AE1CC	</guid>
+		<properties>
+			<next>
+				<item>
+					<guid>	29A349BD.4C8F3764.9725128E.1658E813	</guid>
+					<chunkId>	ffff0000o	</chunkId>
+				</item>
+			</next>
+			<speed>	1.000000	</speed>
+			<modelCount>	9	</modelCount>
+			<delaySecMin>	3.000000	</delaySecMin>
+			<delaySecMax>	15.000000	</delaySecMax>
+		</properties>
+		<backLinks>
+			<link>
+				<guid>	56E60511.40A1E9F2.0E8175BD.48A8CE76	</guid>
+				<chunkId>	ffffffffo	</chunkId>
+			</link>
+		</backLinks>
+	</UserDataObject>
+	<UserDataObject>
+		<type>	WayPoint	</type>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	77.551704 0.491744 78.040558	</row3>
+		</transform>
+		<guid>	3D048960.4D951DF5.443D39A1.CCEA09AC	</guid>
+		<properties>
+			<next>
+				<item>
+					<guid>	56E60511.40A1E9F2.0E8175BD.48A8CE76	</guid>
+					<chunkId>	ffffffffo	</chunkId>
+				</item>
+			</next>
+			<speed>	1.000000	</speed>
+			<model>	content/location/building/port/LBP240_DJ/LBP240_DJ.model	</model>
+			<modelCount>	5	</modelCount>
+			<delaySecMin>	3.000000	</delaySecMin>
+			<delaySecMax>	15.000000	</delaySecMax>
+		</properties>
+		<backLinks />
+	</UserDataObject>
+	<transform>
+		<row0>	1.000000 0.000000 0.000000	</row0>
+		<row1>	0.000000 1.000000 0.000000	</row1>
+		<row2>	0.000000 0.000000 1.000000	</row2>
+		<row3>	-100.000000 0.000000 -100.000000	</row3>
+	</transform>
+	<boundingBox>
+		<min>	-99.999992 -9999.999023 -99.999992	</min>
+		<max>	0.000008 10000.000977 0.000008	</max>
+	</boundingBox>
+</ffffffffo.chunk>

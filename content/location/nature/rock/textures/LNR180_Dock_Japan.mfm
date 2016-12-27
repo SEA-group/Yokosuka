@@ -1,0 +1,20 @@
+<LNR180_Dock_Japan.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_detail_emissive_sss.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	content/location/nature/rock/textures/LNR180_Dock_Japan_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	content/location/nature/rock/textures/LNR180_Dock_Japan_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	content/location/nature/rock/textures/LNR180_Dock_Japan_ao.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	content/location/nature/rock/textures/LNR180_Dock_Japan_a.tga	</Texture>
+	</property>
+	<property>	detailMap
+		<Texture>	content/location/common/textures/default_detail.tga	</Texture>
+	</property>
+</LNR180_Dock_Japan.mfm>

@@ -1,0 +1,46 @@
+<root>
+	<terrain>
+		<metaData />
+		<resource>	00000000o.cdata/terrain2	</resource>
+	</terrain>
+	<model>
+		<resource>	content/location/nature/rock/LNR181_Dock_Japan/LNR181_Dock_Japan.model	</resource>
+		<transform>
+			<row0>	4.178406 0.000000 -4.178409	</row0>
+			<row1>	0.000000 3.866351 0.000000	</row1>
+			<row2>	4.178409 0.000000 4.178406	</row2>
+			<row3>	154.231110 0.330026 -284.814850	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/nature/rock/LNR181_Dock_Japan/LNR181_Dock_Japan.model	</resource>
+		<transform>
+			<row0>	-5.909177 0.000000 0.000001	</row0>
+			<row1>	0.000000 3.866356 0.000000	</row1>
+			<row2>	-0.000001 0.000000 -5.909177	</row2>
+			<row3>	-126.014977 -0.211366 244.331894	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/nature/rock/LNR181_Dock_Japan/LNR181_Dock_Japan.model	</resource>
+		<transform>
+			<row0>	2.168009 0.000000 15.743700	</row0>
+			<row1>	0.000000 9.914268 0.000000	</row1>
+			<row2>	-15.743130 0.000000 2.168009	</row2>
+			<row3>	-208.602570 -0.196933 -75.043518	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<transform>
+		<row0>	1.000000 0.000000 0.000000	</row0>
+		<row1>	0.000000 1.000000 0.000000	</row1>
+		<row2>	0.000000 0.000000 1.000000	</row2>
+		<row3>	0.000000 0.000000 0.000000	</row3>
+	</transform>
+	<boundingBox>
+		<min>	0.000000 -9999.999023 0.000000	</min>
+		<max>	100.000000 10000.000977 100.000000	</max>
+	</boundingBox>
+</root>

@@ -1,0 +1,17 @@
+<LBP225_DJ.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	content/location/building/port/textures/LBP225_DJ_a.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	content/location/building/port/textures/LBP225_DJ_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/location/building/port/textures/LBP225_DJ_mg.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/common/textures/default_ao.tga	</Texture>
+	</property>
+</LBP225_DJ.mfm>

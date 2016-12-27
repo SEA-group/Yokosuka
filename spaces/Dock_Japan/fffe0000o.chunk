@@ -1,0 +1,106 @@
+<fffe0000o.chunk>
+	<terrain>
+		<metaData />
+		<resource>	fffe0000o.cdata/terrain2	</resource>
+	</terrain>
+	<model>
+		<resource>	content/location/nature/rock/LNR181_Dock_Japan/LNR181_Dock_Japan.model	</resource>
+		<transform>
+			<row0>	5.061517 0.000000 7.298534	</row0>
+			<row1>	0.000000 10.662588 0.000000	</row1>
+			<row2>	-6.353029 0.000000 8.590048	</row2>
+			<row3>	61.852570 2.109445 71.827171	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP230_DJ/LBP230_DJ.model	</resource>
+		<transform>
+			<row0>	0.613440 0.000000 0.968309	</row0>
+			<row1>	0.000000 1.146263 0.000000	</row1>
+			<row2>	-0.968309 0.000000 0.613440	</row2>
+			<row3>	59.140656 46.023949 68.665291	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP230_DJ/LBP230_DJ.model	</resource>
+		<transform>
+			<row0>	1.118463 0.000000 0.250931	</row0>
+			<row1>	0.000000 1.146262 0.000000	</row1>
+			<row2>	-0.250931 0.000000 1.118463	</row2>
+			<row3>	60.377396 40.556683 49.693855	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP230_DJ/LBP230_DJ.model	</resource>
+		<transform>
+			<row0>	1.094081 0.000000 -0.341919	</row0>
+			<row1>	0.000000 1.146261 0.000000	</row1>
+			<row2>	0.341919 0.000000 1.094081	</row2>
+			<row3>	52.083786 25.925097 15.526195	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP230_DJ/LBP230_DJ.model	</resource>
+		<transform>
+			<row0>	1.118462 0.000000 0.250931	</row0>
+			<row1>	0.000000 1.146261 0.000000	</row1>
+			<row2>	-0.250931 0.000000 1.118462	</row2>
+			<row3>	53.459000 33.090736 31.623924	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP230_DJ/LBP230_DJ.model	</resource>
+		<transform>
+			<row0>	1.118461 0.000000 0.250931	</row0>
+			<row1>	0.000000 1.146260 0.000000	</row1>
+			<row2>	-0.250931 0.000000 1.118461	</row2>
+			<row3>	68.504379 38.569118 82.238670	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP230_DJ/LBP230_DJ.model	</resource>
+		<transform>
+			<row0>	1.118459 0.000000 0.250931	</row0>
+			<row1>	0.000000 1.146258 0.000000	</row1>
+			<row2>	-0.250931 0.000000 1.118459	</row2>
+			<row3>	73.769531 33.227036 91.938385	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP230_DJ/LBP230_DJ.model	</resource>
+		<transform>
+			<row0>	0.531859 0.000000 -1.015403	</row0>
+			<row1>	0.000000 1.146258 0.000000	</row1>
+			<row2>	1.015403 0.000000 0.531859	</row2>
+			<row3>	99.019569 21.915697 33.805435	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<model>
+		<resource>	content/location/building/port/LBP230_DJ/LBP230_DJ.model	</resource>
+		<transform>
+			<row0>	1.118462 0.000000 0.250931	</row0>
+			<row1>	0.000000 1.146261 0.000000	</row1>
+			<row2>	-0.250931 0.000000 1.118462	</row2>
+			<row3>	50.215271 17.045862 0.824493	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+	</model>
+	<transform>
+		<row0>	1.000000 0.000000 0.000000	</row0>
+		<row1>	0.000000 1.000000 0.000000	</row1>
+		<row2>	0.000000 0.000000 1.000000	</row2>
+		<row3>	-200.000000 0.000000 0.000000	</row3>
+	</transform>
+	<boundingBox>
+		<min>	-199.999985 -9999.999023 0.000000	</min>
+		<max>	-99.999985 10000.000977 100.000000	</max>
+	</boundingBox>
+</fffe0000o.chunk>

@@ -1,0 +1,38 @@
+<LK030_Dock_Japan.visual>
+	<boundingBox>
+		<min>	-50.162183 -3.921473 -50.162183	</min>
+		<max>	50.162194 39.765628 50.162157	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	LK030	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	LK030	</node>
+		<geometry>
+			<vertices>	LK030Shape.vertices	</vertices>
+			<primitive>	LK030Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SKYBOX_LK030	</identifier>
+					<mfm>	content/location/skybox/textures/LK030_Dock_Japan.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</LK030_Dock_Japan.visual>

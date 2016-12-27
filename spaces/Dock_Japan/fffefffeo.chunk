@@ -1,0 +1,16 @@
+<fffefffeo.chunk>
+	<terrain>
+		<metaData />
+		<resource>	fffefffeo.cdata/terrain2	</resource>
+	</terrain>
+	<transform>
+		<row0>	1.000000 0.000000 0.000000	</row0>
+		<row1>	0.000000 1.000000 0.000000	</row1>
+		<row2>	0.000000 0.000000 1.000000	</row2>
+		<row3>	-200.000000 0.000000 -200.000000	</row3>
+	</transform>
+	<boundingBox>
+		<min>	-199.999985 -9999.999023 -199.999985	</min>
+		<max>	-99.999985 10000.000977 -99.999985	</max>
+	</boundingBox>
+</fffefffeo.chunk>

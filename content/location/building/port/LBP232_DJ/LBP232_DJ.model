@@ -1,0 +1,17 @@
+<LBP232_DJ.model>
+	<exporter>	1.6	</exporter>
+	<metaData>
+		<created_by>	v_mironov	</created_by>
+		<created_on>	1437752987	</created_on>
+		<modified_by>	v_mironov	</modified_by>
+		<modified_on>	1438788293	</modified_on>
+	</metaData>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<animation>
+		<name>	NL232_DJ	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	content/animation/location/NL232_DJ	</nodes>
+	</animation>
+	<nodefullVisual>	content/location/building/port/LBP232_DJ/LBP232_DJ	</nodefullVisual>
+</LBP232_DJ.model>

@@ -1,0 +1,12 @@
+<LBP201_DJ.model>
+	<exporter>	1.6	</exporter>
+	<metaData>
+		<created_by>	v_mironov	</created_by>
+		<created_on>	1437462471	</created_on>
+		<modified_by>	v_mironov	</modified_by>
+		<modified_on>	1438790055	</modified_on>
+	</metaData>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/location/building/port/LBP201_DJ/LBP201_DJ	</nodefullVisual>
+</LBP201_DJ.model>
