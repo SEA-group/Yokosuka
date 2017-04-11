@@ -533,7 +533,7 @@
 				<Simulation>
 					<settings>
 						<seaLevel>
-							<value>	-2.0000	</value>
+							<value>	0.0000	</value>
 						</seaLevel>
 						<simpleWavesScale>
 							<value>	1.2990	</value>
