@@ -240,6 +240,13 @@
 						<value>	content/location/skybox/Dock_Japan/lightcube/Default/PMREM.dds	</value>
 					</PMREM>
 				</settings>
+				<SphericalHarmonics>
+					<settings>
+						<harmonics>
+							<value>	RAMWP23AND+/BWs/X+xjPjoFij5hSsc+D5JsPii6dz5FxHo+ZJ8FPtiUFz49Ey4+9+j/Pc0JCz6qSRk++cYrPn/FMj4INTY+Pf2PPYhboT3EYLc9yQ2GPrByhj7FsoA+olgnPr2aRj6YA24+	</value>
+						</harmonics>
+					</settings>
+				</SphericalHarmonics>
 			</PBS>
 			<PostFX>
 				<settings />
@@ -526,7 +533,7 @@
 				<Simulation>
 					<settings>
 						<seaLevel>
-							<value>	0.0000	</value>
+							<value>	-2.0000	</value>
 						</seaLevel>
 						<simpleWavesScale>
 							<value>	1.2990	</value>
