@@ -84,7 +84,7 @@
 			<Fog>
 				<settings>
 					<fogDensityMultiplier>
-						<value>	0.6150	</value>
+						<value>	0.1800	</value>
 					</fogDensityMultiplier>
 					<fogSkyDistanceMultiplier>
 						<value>	48.4800	</value>
@@ -96,7 +96,7 @@
 						<value>	0.6090	</value>
 					</fogDensityHigh>
 					<fogDensityLow>
-						<value>	0.2720	</value>
+						<value>	0.0020	</value>
 					</fogDensityLow>
 					<fogStart>
 						<value>	10.0000	</value>
@@ -140,10 +140,10 @@
 						<value>	2	</value>
 					</version>
 					<adaptationSpeed>
-						<value>	136.3700	</value>
+						<value>	47.2800	</value>
 					</adaptationSpeed>
 					<avgLumUpdateInterval>
-						<value>	1.0100	</value>
+						<value>	0.2000	</value>
 					</avgLumUpdateInterval>
 				</settings>
 				<Bloom>
@@ -183,7 +183,7 @@
 							<value>	0.1700	</value>
 						</eyeDarkLimit>
 						<eyeLightLimit>
-							<value>	0.9600	</value>
+							<value>	2.1000	</value>
 						</eyeLightLimit>
 						<middleGray>
 							<value>	0.4700	</value>
@@ -220,7 +220,7 @@
 				<Environment>
 					<settings>
 						<skyLumMultiplier>
-							<value>	1.5000	</value>
+							<value>	1.2000	</value>
 						</skyLumMultiplier>
 						<sunlightLumMultiplier>
 							<value>	2.5000	</value>
@@ -243,7 +243,7 @@
 				<SphericalHarmonics>
 					<settings>
 						<harmonics>
-							<value>	RAMWP23AND+/BWs/X+xjPjoFij5hSsc+D5JsPii6dz5FxHo+ZJ8FPtiUFz49Ey4+9+j/Pc0JCz6qSRk++cYrPn/FMj4INTY+Pf2PPYhboT3EYLc9yQ2GPrByhj7FsoA+olgnPr2aRj6YA24+	</value>
+							<value>	HaIcPx6ERz/BKKA/O0jYPsXXCz8MC4E/2P8iP909Mj9ag0M/hGvlPliAAD+R1RE/i/2qPkrwuj4m88w+Hen2Pjn5Az+Cuw4/Zt+jPV91rz2UMJg9ulkUP2P8Gz+ONB0/wsiNPbUuqz1wC2s9	</value>
 						</harmonics>
 					</settings>
 				</SphericalHarmonics>
@@ -253,7 +253,7 @@
 				<Common>
 					<settings>
 						<colorCorrectIntensity>
-							<value>	0.5500	</value>
+							<value>	0.7500	</value>
 						</colorCorrectIntensity>
 						<colorTintIntensityScreen>
 							<value>	0.0000	</value>
@@ -485,30 +485,33 @@
 				</Foam>
 				<Optics>
 					<settings>
-						<specularPower>
-							<value>	1590.9771	</value>
-						</specularPower>
 						<refrDistortion>
-							<value>	0.1230	</value>
+							<value>	0.1280	</value>
 						</refrDistortion>
+						<reflectionScaleFOV>
+							<value>	1.0000	</value>
+						</reflectionScaleFOV>
 						<waterTransparency>
-							<value>	6.0700	</value>
+							<value>	1.6000	</value>
 						</waterTransparency>
-						<seabedColor>
-							<value>	0.0000 0.4667 0.2745 1.0000	</value>
-						</seabedColor>
-						<subSurfColor>
-							<value>	0.5098 0.9961 0.1922 1.0000	</value>
-						</subSurfColor>
-						<diffuseColor>
-							<value>	0.0039 0.0471 0.1294 0.3137	</value>
-						</diffuseColor>
+						<subSurfaceThickness>
+							<value>	2.1000	</value>
+						</subSurfaceThickness>
+						<subSurfaceBrightness>
+							<value>	1.0000	</value>
+						</subSurfaceBrightness>
+						<turbidColor>
+							<value>	0.0406 0.0598 0.0700 0.2700	</value>
+						</turbidColor>
 						<rgbAbsorption>
-							<value>	2.0000 3.6000 4.5000 3.6000	</value>
+							<value>	2.8000 4.1000 5.0000 3.0000	</value>
 						</rgbAbsorption>
-						<specularIntensity>
-							<value>	0.5000	</value>
-						</specularIntensity>
+						<sunGlitterIntensity>
+							<value>	0.0450	</value>
+						</sunGlitterIntensity>
+						<sunGlitterGlossiness>
+							<value>	0.7290	</value>
+						</sunGlitterGlossiness>
 					</settings>
 					<SeaShadows>
 						<settings>
@@ -611,7 +614,7 @@
 							<value>	0.0000	</value>
 						</windSpeed>
 						<windDir>
-							<value>	0.0000 0.0000	</value>
+							<value>	0.0000 0.2000	</value>
 						</windDir>
 						<scrollDist>
 							<value>	0.1000	</value>
