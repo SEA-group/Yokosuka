@@ -55,10 +55,10 @@
 	</model>
 	<model>
 		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
-		<animation>
-			<name>	NL225_DJ	</name>
-			<frameRateMultiplier>	0.430000	</frameRateMultiplier>
-		</animation>
+		<action>
+			<name>    idle    </name>
+			<frameRateMultiplier>	0.2050	</frameRateMultiplier>
+		</action>
 		<transform>
 			<row0>	0.343932 0.000000 0.695943	</row0>
 			<row1>	0.000000 0.776291 0.000000	</row1>

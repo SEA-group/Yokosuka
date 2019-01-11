@@ -45,10 +45,10 @@
 	</model>
 	<model>
 		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
-		<animation>
-			<name>	NL225_DJ	</name>
-			<frameRateMultiplier>	0.300000	</frameRateMultiplier>
-		</animation>
+		<action>
+			<name>    idle    </name>
+			<frameRateMultiplier>	0.2050	</frameRateMultiplier>
+		</action>
 		<transform>
 			<row0>	0.343931 0.000000 0.695943	</row0>
 			<row1>	0.000000 0.776290 0.000000	</row1>
@@ -59,10 +59,10 @@
 	</model>
 	<model>
 		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
-		<animation>
-			<name>	NL225_DJ	</name>
-			<frameRateMultiplier>	0.400000	</frameRateMultiplier>
-		</animation>
+		<action>
+			<name>    idle    </name>
+			<frameRateMultiplier>	0.2050	</frameRateMultiplier>
+		</action>
 		<transform>
 			<row0>	0.343931 0.000000 0.695942	</row0>
 			<row1>	0.000000 0.776289 0.000000	</row1>
@@ -73,10 +73,10 @@
 	</model>
 	<model>
 		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
-		<animation>
-			<name>	NL225_DJ	</name>
-			<frameRateMultiplier>	0.350000	</frameRateMultiplier>
-		</animation>
+		<action>
+			<name>    idle    </name>
+			<frameRateMultiplier>	0.2050	</frameRateMultiplier>
+		</action>
 		<transform>
 			<row0>	0.152089 0.000000 0.761245	</row0>
 			<row1>	0.000000 0.776290 0.000000	</row1>
@@ -87,10 +87,10 @@
 	</model>
 	<model>
 		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
-		<animation>
-			<name>	NL225_DJ	</name>
-			<frameRateMultiplier>	0.350000	</frameRateMultiplier>
-		</animation>
+		<action>
+			<name>    idle    </name>
+			<frameRateMultiplier>	0.2050	</frameRateMultiplier>
+		</action>
 		<transform>
 			<row0>	0.152089 0.000000 0.761246	</row0>
 			<row1>	0.000000 0.776290 0.000000	</row1>
@@ -101,10 +101,10 @@
 	</model>
 	<model>
 		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
-		<animation>
-			<name>	NL225_DJ	</name>
-			<frameRateMultiplier>	0.300000	</frameRateMultiplier>
-		</animation>
+		<action>
+			<name>    idle    </name>
+			<frameRateMultiplier>	0.2050	</frameRateMultiplier>
+		</action>
 		<transform>
 			<row0>	-0.050119 0.000000 0.774669	</row0>
 			<row1>	0.000000 0.776290 0.000000	</row1>
@@ -115,10 +115,10 @@
 	</model>
 	<model>
 		<resource>	content/location/building/port/LBP225_DJ/LBP225_DJ.model	</resource>
-		<animation>
-			<name>	NL225_DJ	</name>
-			<frameRateMultiplier>	0.410000	</frameRateMultiplier>
-		</animation>
+		<action>
+			<name>    idle    </name>
+			<frameRateMultiplier>	0.2050	</frameRateMultiplier>
+		</action>
 		<transform>
 			<row0>	0.152089 0.000000 0.761246	</row0>
 			<row1>	0.000000 0.776291 0.000000	</row1>
